@@ -69,3 +69,45 @@ El problema se manifiesta a través del estancamiento en la cartera de clientes 
 El impacto económico se traduce en una pérdida significativa de contratos potenciales, lo que reduce drásticamente los ingresos mensuales de los emprendedores locales y frena su escalabilidad. Para el cliente, representa un alto costo de oportunidad reflejado en horas invertidas en búsquedas ineficientes y el riesgo financiero de contratar servicios de baja calidad por no contar con un portafolio validado que respalde al trabajador.
 
 </div>
+
+### 1.2.2. Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+El estado actual de la exhibición de portafolios para trabajadores independientes (proveedores de eventos y oficios) depende del "boca a boca", envío de fotos desordenadas por WhatsApp o del uso de redes sociales complejas (como TikTok o Instagram) que no dominan. Lo que los profesionales necesitan es una forma sencilla y directa de centralizar su trabajo en un perfil profesional sin tener que lidiar con algoritmos ni creación de contenido viral. Hemos observado que la falta de una presencia digital formal limita su crecimiento y les hace perder oportunidades de contrato.
+
+**¿Cómo podríamos diseñar una plataforma accesible que permita a los trabajadores independientes exhibir su portafolio profesionalmente y captar más clientes con una curva de aprendizaje mínima?**
+
+El estado actual de la búsqueda de talento local (decoradores, DJs, técnicos) obliga a los clientes finales a recurrir a plataformas genéricas como Facebook Marketplace o a depender de recomendaciones limitadas de su círculo cercano. Lo que los clientes necesitan es visibilidad sobre la calidad real del trabajo y reseñas confiables para tomar decisiones seguras. Hemos observado que esta fricción genera desconfianza, pérdida de tiempo y el riesgo constante de contratar servicios de baja calidad.
+
+**¿Cómo podríamos ofrecer a los clientes finales un directorio centralizado y confiable que les permita buscar, comparar y contactar rápidamente a profesionales verificados para sus eventos o necesidades del hogar?**
+
+#### 1.2.2.2. Lean UX Assumptions
+
+**Assumptions Worksheet**
+
+- **¿Quién es el usuario?**
+  Tenemos dos tipos de usuarios principales: los profesionales de oficios (decoradores, DJs, proveedores de catering, carpinteros, técnicos, etc. que buscan clientes) y los clientes finales (personas o familias que necesitan organizar un evento o solucionar un requerimiento doméstico).
+
+- **¿Dónde encaja nuestro producto en su trabajo o vida?**
+  Para el profesional, Servify se integrará como su herramienta principal de ventas y carta de presentación digital. Para el cliente final, funcionará como el directorio de confianza "on-demand" al que acudirán desde su smartphone o computadora cada vez que necesiten cotizar y contratar un servicio específico.
+
+- **¿Qué problemas resuelve nuestro producto?**
+  El producto resuelve la informalidad digital del trabajador independiente, la brecha tecnológica que les impide usar redes sociales como canal de ventas eficiente, y la desconfianza/frustración del cliente al buscar talento local verificado.
+
+- **¿Cuándo y cómo es usado nuestro producto?**
+  El profesional lo usará para crear/actualizar su galería de trabajos, recibir solicitudes y gestionar contactos. El cliente final lo usará esporádicamente para realizar búsquedas mediante filtros (categoría, ubicación), leer reseñas y presionar un botón de contacto directo.
+
+- **¿Qué características son importantes?**
+  Para el segmento de profesionales: creación de perfiles intuitiva, carga rápida de galerías visuales y botón de contacto directo (ej. WhatsApp). Para el segmento de clientes: motor de búsqueda con filtros, sistema de reseñas de 1 a 5 estrellas y validación visual de los proyectos realizados.
+
+- **¿Cómo debe verse nuestro producto y cómo comportarse?**
+  Nuestro producto debe transmitir profesionalismo, seguridad y confianza. Su interfaz debe ser extremadamente limpia, visual e intuitiva, asegurando que un profesional no nativo digital pueda configurar su perfil sin fricciones ni confusiones técnicas.
+
+**Business Assumptions:**
+
+- Creemos que los profesionales independientes están dispuestos a pagar una suscripción (mensual o anual) por un perfil "Premium" destacado, siempre que la plataforma les genere un retorno de inversión mediante la captación de nuevos clientes.
+- Estas necesidades se pueden resolver mediante un modelo de "Marketplace de Servicios" o directorio digital con un enfoque inicial *freemium* para construir rápidamente una base masiva de proveedores.
+- Creemos que los clientes finales prefieren navegar por una plataforma especializada con reseñas y portafolios organizados antes que contactar a desconocidos a través de redes sociales genéricas.
+- Nuestro mayor riesgo es el "problema del huevo y la gallina": que los clientes no encuentren suficientes opciones en la plataforma en su etapa inicial, o que los profesionales abandonen sus perfiles si no reciben contactos rápidos.
+- Creemos que las alianzas estratégicas con gremios locales, asociaciones de eventos o proveedores mayoristas pueden acelerar la adopción masiva de la plataforma por parte de los trabajadores.
