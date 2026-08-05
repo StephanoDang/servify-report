@@ -13,3 +13,12 @@ Con un firme compromiso con la inclusión digital y el empoderamiento económico
 **Misión:** Impulsar el crecimiento económico y la formalización digital de los trabajadores independientes mediante soluciones tecnológicas accesibles que aumenten su visibilidad, optimicen la exhibición de su trabajo y faciliten conexiones seguras y directas con clientes que requieran sus servicios.
 
 **Visión:** Ser el marketplace y directorio de oficios de referencia en el Perú y Latinoamérica, liderando la creación de un ecosistema digital inclusivo donde el talento local y las necesidades de los usuarios converjan para generar oportunidades de trabajo justas, transparentes y de alta calidad.
+
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+Al ser un proyecto de portafolio personal, el desarrollo y arquitectura de la plataforma están a cargo de un único creador que asume todos los roles del ciclo de vida del software.
+
+| Perfil | Datos del Desarrollador | Conocimientos y Habilidades |
+| :---: | :--- | :--- |
+| <img src="images/stephano.jpeg" width="120" style="border-radius: 8px;"><br>**Full-Stack Developer** | **Nombres y Apellidos:**<br>Angelo Stephano Moscoso Bejar | **Stack Tecnológico:**<br>C++, CSS, HTML, Vue.js, SQL, JS.<br><br>**Aportes al Proyecto:**<br>Encargado del diseño de la arquitectura de datos, desarrollo frontend/backend, maquetación de interfaces responsivas y la implementación de la lógica de negocio. |
