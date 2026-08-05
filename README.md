@@ -119,3 +119,11 @@ El estado actual de la búsqueda de talento local (decoradores, DJs, técnicos) 
 - Creemos que si brindamos a los clientes finales un directorio centralizado con galerías visuales y un sistema de reseñas de 1 a 5 estrellas, entonces sentirán mayor seguridad y reducirán el tiempo invertido en buscar talento local confiable. Sabremos que estamos en lo correcto cuando las analíticas muestren que los usuarios completan el flujo desde la búsqueda hasta hacer clic en "Contactar" en menos de 5 minutos, y cuando los servicios contratados mantengan un promedio de calificación superior a 4 estrellas.
 
 - Creemos que si proporcionamos a los profesionales de oficios la opción de adquirir planes de suscripción "Premium" para destacar sus perfiles en los primeros resultados de búsqueda, entonces adoptarán el modelo de pago al percibir un retorno de inversión real. Sabremos que estamos en lo correcto cuando logremos una tasa de conversión de al menos el 15% de usuarios gratuitos a planes de pago dentro de los primeros seis meses de lanzamiento.
+
+
+#### 1.2.2.4. Lean UX Canvas
+
+<div align="center">
+  <img src="images/lean_ux.png" alt="Lean UX Canvas de Servify">
+</div>
+
