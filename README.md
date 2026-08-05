@@ -111,3 +111,11 @@ El estado actual de la búsqueda de talento local (decoradores, DJs, técnicos) 
 - Creemos que los clientes finales prefieren navegar por una plataforma especializada con reseñas y portafolios organizados antes que contactar a desconocidos a través de redes sociales genéricas.
 - Nuestro mayor riesgo es el "problema del huevo y la gallina": que los clientes no encuentren suficientes opciones en la plataforma en su etapa inicial, o que los profesionales abandonen sus perfiles si no reciben contactos rápidos.
 - Creemos que las alianzas estratégicas con gremios locales, asociaciones de eventos o proveedores mayoristas pueden acelerar la adopción masiva de la plataforma por parte de los trabajadores.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- Creemos que si ofrecemos a los trabajadores independientes y proveedores de eventos una plataforma simplificada para crear portafolios profesionales sin requerir conocimientos avanzados en redes sociales, entonces aumentarán su visibilidad online y lograrán captar más clientes. Sabremos que estamos en lo correcto cuando al menos el 30% de los profesionales registrados reciba su primera solicitud de cotización o contacto directo a través de la plataforma durante su primer mes de uso.
+
+- Creemos que si brindamos a los clientes finales un directorio centralizado con galerías visuales y un sistema de reseñas de 1 a 5 estrellas, entonces sentirán mayor seguridad y reducirán el tiempo invertido en buscar talento local confiable. Sabremos que estamos en lo correcto cuando las analíticas muestren que los usuarios completan el flujo desde la búsqueda hasta hacer clic en "Contactar" en menos de 5 minutos, y cuando los servicios contratados mantengan un promedio de calificación superior a 4 estrellas.
+
+- Creemos que si proporcionamos a los profesionales de oficios la opción de adquirir planes de suscripción "Premium" para destacar sus perfiles en los primeros resultados de búsqueda, entonces adoptarán el modelo de pago al percibir un retorno de inversión real. Sabremos que estamos en lo correcto cuando logremos una tasa de conversión de al menos el 15% de usuarios gratuitos a planes de pago dentro de los primeros seis meses de lanzamiento.
