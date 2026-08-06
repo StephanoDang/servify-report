@@ -209,4 +209,155 @@ El estado actual de la búsqueda de talento local (decoradores, DJs, técnicos) 
 | **Psicológica** | Buscan crecimiento económico, formalidad y reconocimiento por su trabajo. Se sienten abrumados por la complejidad de crear contenido viral para redes sociales. Valoran la simplicidad y las herramientas directas que les ahorren tiempo en ventas. | Valoran la confianza, la seguridad y la practicidad. Buscan reducir el riesgo de ser estafados o recibir un mal servicio. Prefieren tomar decisiones racionales basadas en validación visual (fotos/portafolios) y social (reseñas). |
 | **Función de comportamiento** | Uso básico o intermedio de smartphones (WhatsApp, Facebook). Adoptan tecnología solo si la curva de aprendizaje es mínima. Se frustran al perder clientes por no tener un catálogo ordenado. Su objetivo principal es cerrar más contratos rápidamente. | Uso frecuente de internet y aplicaciones para resolver necesidades. Se frustran al perder tiempo buscando en grupos desorganizados de Facebook o esperando que les envíen fotos sueltas. Su objetivo es encontrar al proveedor ideal de forma rápida y segura. |
 
-<div align="center">
+
+
+---
+
+<div style="page-break-after: always;"></div>
+
+
+# Capítulo II: Requirements Elicitation & Analysis
+
+## 2.1. Competidores
+
+### 1. Recomiendame.pe
+<div style="text-align: justify">
+Recomiendame.pe es un directorio web a nivel nacional enfocado en la búsqueda y recomendación de profesionales y técnicos de diversos oficios. Su plataforma permite a los usuarios buscar servicios específicos y a los trabajadores publicar anuncios básicos sobre lo que hacen. 
+
+En cuanto a costos y modelo de negocio, es una alternativa gratuita o de muy bajo costo; sin embargo, no cuenta con un alto nivel de popularidad, marketing ni adopción masiva por parte de los clientes, lo que limita drásticamente la exposición y el retorno real que obtienen los trabajadores independientes al registrarse allí.
+</div>
+
+### 2. Matrimonio.com.pe
+<div style="text-align: justify">
+Es una de las plataformas web y móviles más grandes en el rubro de eventos sociales en Latinoamérica. Funciona como un directorio súper especializado donde los proveedores de servicios pueden crear un perfil profesional, subir galerías de fotos de alta calidad y recibir reseñas detalladas de sus clientes.
+
+Su modelo de negocio es freemium. Aunque crear un perfil básico es gratuito, la plataforma está altamente saturada, obligando a los profesionales a pagar planes premium costosos para aparecer en los primeros resultados. Además, su principal limitante es que está exclusivamente enfocada en bodas, dejando totalmente por fuera otros eventos privados altamente rentables.
+</div>
+
+### 3. Facebook Marketplace y Grupos de Facebook
+<div style="text-align: justify">
+Aunque no es una plataforma especializada exclusiva para oficios, Facebook (a través de su Marketplace y Grupos locales) es actualmente el principal competidor indirecto, ya que es el ecosistema por defecto al que recurren los trabajadores independientes para intentar captar clientes. Permite subir fotos y colocar descripciones rápidas del servicio ofrecido.
+
+Si bien es una herramienta totalmente gratuita, carece de una estructura profesional para portafolios. Los profesionales se enfrentan a la barrera de los algoritmos de redes sociales, la necesidad constante de "republicar" para no desaparecer, la alta informalidad y la ausencia de un sistema de reseñas centralizado y verificado que brinde seguridad real a los clientes finales frente a posibles estafas.
+</div>
+
+
+### 2.1.1. Análisis Competitivo
+
+<table>
+  <tr>
+    <th colspan="6">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2"><b>¿Por qué llevar a cabo este análisis?</b></td>
+    <td colspan="4">El objetivo de este análisis es entender cómo los profesionales independientes y técnicos buscan clientes hoy en día, identificar las fallas de las plataformas actuales (desorganización, altos costos, exclusividad) y posicionar a Servify como la alternativa integral, accesible y segura. Esto es vital para encontrar el punto de equilibrio entre la informalidad de las redes sociales y los altos costos de los directorios premium.</td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td><b>Su startup</b></td>
+    <td><b>Competidor 1</b></td>
+    <td><b>Competidor 2</b></td>
+    <td><b>Competidor 3</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td><b>Servify</b><br>Perú / Latinoamérica</td>
+    <td>
+      <b>Recomiendame.pe</b>
+      <br>Perú
+    </td>
+    <td>
+      <b>Matrimonio.com.pe</b>
+      <br>Latinoamérica
+    </td>
+    <td>
+      <b>Facebook Marketplace</b>
+      <br>Global
+    </td>
+  </tr>
+
+  <tr>
+    <td rowspan="2"><b>Perfil</b></td>
+    <td><b>Overview</b></td>
+    <td>Plataforma digital (web y móvil) diseñada para digitalizar y centralizar portafolios de trabajadores independientes y proveedores de oficios. Permite a los usuarios buscar servicios, ver fotos reales de trabajos anteriores, leer reseñas y contactar directamente por WhatsApp, sin necesidad de dominar redes sociales.</td>
+    <td>Directorio web a nivel nacional enfocado en la búsqueda y recomendación de profesionales y técnicos. Permite publicar anuncios textuales y básicos sobre servicios, funcionando como una guía telefónica digital o sección de clasificados modernos.</td>
+    <td>Plataforma web y móvil líder en el rubro de eventos sociales (exclusivo bodas). Directorio altamente especializado donde los proveedores crean perfiles premium con galerías de alta calidad, reseñas extensas y herramientas de cotización integradas.</td>
+    <td>Sección de compra/venta y grupos comunitarios dentro de la red social Facebook. No es exclusiva para servicios, pero es usada masivamente por profesionales independientes para publicar fotos rápidas y captar clientes en su localidad.</td>
+  </tr>
+  <tr>
+    <td><b>Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</b></td>
+    <td>Combina lo mejor de dos mundos: la estructura y formalidad de un portafolio profesional, con la facilidad de uso y contacto directo de una red social. Todo en un entorno validado por reseñas para evitar estafas.</td>
+    <td>Enfoque netamente local (Perú) y gratuidad casi total. Es una herramienta sencilla que no exige conocimientos técnicos para crear un anuncio de servicio.</td>
+    <td>Prestigio, confianza absoluta y herramientas adicionales (planificadores, foros). Si un proveedor está bien posicionado aquí, garantiza un flujo de clientes con alto poder adquisitivo.</td>
+    <td>Tráfico inmenso. El usuario no necesita descargar nada nuevo ni registrarse en otro sitio, ya que utiliza la red social que abre todos los días.</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2"><b>Perfil de Marketing</b></td>
+    <td><b>Mercado objetivo</b></td>
+    <td>Trabajadores independientes (20-55 años) del rubro de eventos y oficios técnicos que no dominan algoritmos virales. Clientes finales (familias, organizadores) que buscan servicios rápidos, verificados y sin fricciones.</td>
+    <td>Técnicos de oficios tradicionales (gasfiteros, electricistas, albañiles) que buscan un espacio digital básico para dejar su número de contacto en Perú.</td>
+    <td>Proveedores de eventos con presupuestos de marketing moderados a altos. Clientes: Parejas comprometidas dispuestas a invertir fuertemente en la celebración de su boda.</td>
+    <td>Público general. Cualquier persona con acceso a internet que ofrezca un servicio empírico o que busque soluciones rápidas y económicas en su distrito.</td>
+  </tr>
+  <tr>
+    <td><b>Estrategias de marketing</b></td>
+    <td>Marketing digital centrado en la "formalización" del trabajador y el aumento de sus ingresos. Alianzas con gremios locales, mercados y campañas de boca a boca. Crecimiento impulsado por el modelo freemium.</td>
+    <td>Posicionamiento SEO local (búsquedas en Google tipo "gasfitero en Lima") y listados gratuitos que atraen tráfico orgánico.</td>
+    <td>Fuerte inversión en SEO/SEM, organización de ferias de novios, publicidad tradicional y branding aspiracional muy potente.</td>
+    <td>El marketing lo hacen los propios usuarios. Facebook retiene a la audiencia mediante su ecosistema completo (grupos, noticias, chat), haciendo que el Marketplace tenga visitas por defecto.</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3"><b>Perfil de Producto</b></td>
+    <td><b>Productos & Servicios</b></td>
+    <td>Perfiles intuitivos, galerías de imágenes de carga rápida, buscador avanzado con filtros, sistema de reseñas de 1 a 5 estrellas y botón de redirección inmediata a WhatsApp para cerrar el trato.</td>
+    <td>Fichas de contacto muy básicas con título, descripción del servicio, zona de cobertura y números de teléfono.</td>
+    <td>Perfiles premium, cotizador interno, agenda de citas, foros de comunidad y sellos de calidad (premios anuales a los mejores proveedores).</td>
+    <td>Publicaciones efímeras en un feed estilo clasificados, interacción en grupos locales e integración directa con Facebook Messenger.</td>
+  </tr>
+  <tr>
+    <td><b>Precios & Costos</b></td>
+    <td>Modelo Freemium. Creación de perfil y portafolio 100% gratuito. Planes de suscripción de bajo costo para destacar el perfil en los primeros resultados de búsqueda.</td>
+    <td>Gratuito o con opciones de pago de muy bajo costo para mantener el anuncio activo.</td>
+    <td>Modelo Freemium altamente agresivo. Aparecer en los resultados útiles requiere pagar planes premium costosos (mensuales o anuales) debido a la saturación del sitio.</td>
+    <td>100% gratuito para publicar. Opciones de pago (Facebook Ads) para promocionar la publicación y llegar a más personas.</td>
+  </tr>
+  <tr>
+    <td><b>Canales de distribución (Web y/o Móvil)</b></td>
+    <td>Plataforma Web (Responsive) y futura App Móvil.</td>
+    <td>Plataforma Web clásica.</td>
+    <td>Plataforma Web y aplicación móvil altamente desarrollada (iOS/Android).</td>
+    <td>Plataforma Web y App Móvil de Facebook.</td>
+  </tr>
+
+  <tr>
+    <td rowspan="4"><b>Análisis SWOT</b></td>
+    <td><b>Fortalezas</b></td>
+    <td>Especialización en portafolios sin la complejidad de TikTok/Instagram. Facilidad de uso para no nativos digitales. Contacto directo por WhatsApp que acelera las ventas.</td>
+    <td>Alcance a nivel nacional, nombre de dominio muy fácil de recordar y costo de entrada nulo.</td>
+    <td>Marca líder indiscutible en su nicho. Base de datos enorme de clientes dispuestos a gastar. Herramientas complementarias muy completas.</td>
+    <td>Audiencia cautiva de millones de usuarios diarios. Familiaridad total con la interfaz. Cero barreras de entrada.</td>
+  </tr>
+  <tr>
+    <td><b>Debilidades</b></td>
+    <td>Startup nueva que debe lidiar con el "problema del huevo y la gallina" (necesita profesionales para atraer clientes y viceversa). Depende de la adopción tecnológica inicial.</td>
+    <td>Diseño web desactualizado, bajo tráfico en comparación con redes sociales, falta de herramientas visuales como galerías estructuradas.</td>
+    <td>Exclusividad extrema (solo bodas), dejando fuera el rentable mercado de 15 años, cumpleaños y oficios del hogar. Costos prohibitivos para pequeños emprendedores.</td>
+    <td>Desorden total. Cero filtros de seguridad o validación profesional, lo que propicia estafas. El algoritmo obliga a republicar constantemente para no desaparecer del feed.</td>
+  </tr>
+  <tr>
+    <td><b>Oportunidades</b></td>
+    <td>Digitalizar un sector mayormente informal en Latinoamérica. Posibilidad de expandir rápidamente de eventos a oficios técnicos del hogar una vez validado el modelo.</td>
+    <td>Si modernizan su interfaz y añaden sistemas de validación o fotografías, podrían captar a la audiencia que huye de la informalidad de Facebook.</td>
+    <td>Tienen el capital para abrir plataformas paralelas dedicadas a otros tipos de eventos, acaparando el mercado general.</td>
+    <td>Facebook podría lanzar un "Marketplace Services" con perfiles verificados y reseñas, imitando el modelo de directorios formales.</td>
+  </tr>
+  <tr>
+    <td><b>Amenazas</b></td>
+    <td>Resistencia al cambio por parte de profesionales que prefieren seguir usando Facebook por costumbre, a pesar de sus fallas. Falta de financiamiento inicial para marketing masivo.</td>
+    <td>El crecimiento de plataformas más modernas y visuales (como Servify) que dejen obsoleta su estructura de "clasificados de texto".</td>
+    <td>Crisis económicas que reduzcan drásticamente el presupuesto para bodas de lujo, afectando el pago de suscripciones de sus proveedores.</td>
+    <td>Pérdida de credibilidad por aumento de estafas en su plataforma, llevando a los usuarios a buscar directorios especializados y seguros.</td>
+  </tr>
+</table>
