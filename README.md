@@ -361,3 +361,21 @@ Si bien es una herramienta totalmente gratuita, carece de una estructura profesi
     <td>Pérdida de credibilidad por aumento de estafas en su plataforma, llevando a los usuarios a buscar directorios especializados y seguros.</td>
   </tr>
 </table>
+
+## 2.1.2. Estrategias y tácticas frente a competidores
+
+Servify cuenta con una ventaja clara frente a sus competidores: encuentra el punto de equilibrio exacto entre la profesionalidad de un directorio premium y la accesibilidad de una red social. Frente a Matrimonio.com.pe, que cobra planes costosos y se limita exclusivamente al sector de bodas, Servify elimina esa barrera económica con su modelo freemium y abarca todo el espectro de eventos privados y oficios locales, capturando a un mercado masivo de emprendedores que actualmente se encuentra desatendido.
+
+Frente a Facebook Marketplace, que domina por su inmenso tráfico pero sufre de alta informalidad y desorden, la táctica es posicionar a Servify como la alternativa "segura y estructurada". La estrategia no es intentar robarle el tráfico diario a Facebook, sino ofrecer a los profesionales una herramienta (su enlace de perfil de Servify) que puedan compartir en sus propias redes sociales o WhatsApp. De esta manera, se garantiza a los clientes finales un ecosistema limpio, con galerías ordenadas y reseñas verificadas que eliminen el miedo a las estafas.
+
+Respecto a Recomiendame.pe, que es una opción local pero estática y basada solo en texto, la estrategia es diferenciarse radicalmente mediante el diseño visual y la experiencia de usuario (UX). Servify priorizará las galerías de imágenes de alta calidad y la integración directa con WhatsApp para cotizaciones inmediatas, demostrando ser una herramienta diseñada específicamente para cerrar ventas de forma ágil.
+
+La táctica central de Servify debe basarse en el crecimiento orgánico impulsado por la propia comunidad. Al ofrecer un portafolio digital gratuito y fácil de usar, los propios trabajadores independientes actuarán como embajadores de la marca al compartir sus perfiles con prospectos, generando un efecto de red (network effect) que construya credibilidad y atraiga tanto a más profesionales como a clientes finales.
+
+## 2.2. Entrevistas
+
+Con el objetivo de conocer cómo los profesionales independientes gestionan actualmente la captación de clientes y qué dificultades enfrentan los usuarios al buscar servicios, se llevaron a cabo entrevistas dirigidas a nuestros dos segmentos principales: trabajadores independientes (proveedores de eventos y oficios) y clientes finales (organizadores de eventos y dueños de hogar). Para cada segmento se diseñaron preguntas abiertas que permitieran entender sus hábitos, su nivel de dominio tecnológico, cómo manejan la desconfianza en contrataciones por internet y su disposición a utilizar un directorio centralizado.
+
+La información recopilada fue revisada y organizada para identificar comportamientos recurrentes, problemas comunes y necesidades no cubiertas. Este análisis permitió obtener una visión más clara sobre cómo los profesionales luchan y se frustran contra los algoritmos de las redes sociales, y cómo los clientes finales pierden tiempo valioso ante la falta de catálogos formales y validados.
+
+A partir de estos hallazgos, se pudieron establecer criterios clave para el desarrollo de Servify, asegurando que la solución responda a situaciones reales, elimine la fricción en el proceso de búsqueda y aporte un valor contundente: mayores ingresos y formalidad para el profesional, y seguridad y rapidez para el cliente.
