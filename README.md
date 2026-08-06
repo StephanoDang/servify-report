@@ -127,3 +127,14 @@ El estado actual de la búsqueda de talento local (decoradores, DJs, técnicos) 
   <img src="images/lean_ux.png" alt="Lean UX Canvas de Servify">
 </div>
 
+
+## 1.3. Segmentos Objetivo
+
+| | Segmento 1: Trabajadores independientes y de oficios | Segmento 2: Clientes finales (Organizadores y hogares) |
+| :--- | :--- | :--- |
+| **Variables** | Profesionales empíricos, técnicos y proveedores de servicios (decoradores, DJs, catering, mantenimiento). | Personas y familias que requieren contratar servicios para eventos privados o necesidades del hogar. |
+| **Geográfica** | Ubicados principalmente en zonas urbanas y suburbanas del Perú (con foco inicial en Lima Metropolitana), donde existe una alta demanda constante de eventos y reparaciones. | Ubicados en zonas urbanas y suburbanas, en distritos con actividad social, familiar y demanda de servicios a domicilio. |
+| **Demográfica** | **Edad:** 20-55 años. **Género:** Mixto. **Educación:** Empírica, técnica o superior. **Ingresos:** Variables (dependientes del flujo de contratos). **Ocupación:** Emprendedores de oficios. | **Edad:** 25-55 años. **Género:** Mixto. **Educación:** Secundaria completa o superior. **Ingresos:** Medio a alto. **Estado civil:** Padres de familia, parejas a punto de casarse, solteros independientes. |
+| **Psicológica** | Buscan crecimiento económico, formalidad y reconocimiento por su trabajo. Se sienten abrumados por la complejidad de crear contenido viral para redes sociales. Valoran la simplicidad y las herramientas directas que les ahorren tiempo en ventas. | Valoran la confianza, la seguridad y la practicidad. Buscan reducir el riesgo de ser estafados o recibir un mal servicio. Prefieren tomar decisiones racionales basadas en validación visual (fotos/portafolios) y social (reseñas). |
+| **Función de comportamiento** | Uso básico o intermedio de smartphones (WhatsApp, Facebook). Adoptan tecnología solo si la curva de aprendizaje es mínima. Se frustran al perder clientes por no tener un catálogo ordenado. Su objetivo principal es cerrar más contratos rápidamente. | Uso frecuente de internet y aplicaciones para resolver necesidades. Se frustran al perder tiempo buscando en grupos desorganizados de Facebook o esperando que les envíen fotos sueltas. Su objetivo es encontrar al proveedor ideal de forma rápida y segura. |
+
