@@ -1,4 +1,4 @@
-
+<div align="center">
   <img src="https://via.placeholder.com/150?text=Servify+Logo" alt="Logo Servify" width="120">
 
   <p><strong>Proyecto Personal de Portafolio</strong><br>
@@ -209,4 +209,4 @@ El estado actual de la búsqueda de talento local (decoradores, DJs, técnicos) 
 | **Psicológica** | Buscan crecimiento económico, formalidad y reconocimiento por su trabajo. Se sienten abrumados por la complejidad de crear contenido viral para redes sociales. Valoran la simplicidad y las herramientas directas que les ahorren tiempo en ventas. | Valoran la confianza, la seguridad y la practicidad. Buscan reducir el riesgo de ser estafados o recibir un mal servicio. Prefieren tomar decisiones racionales basadas en validación visual (fotos/portafolios) y social (reseñas). |
 | **Función de comportamiento** | Uso básico o intermedio de smartphones (WhatsApp, Facebook). Adoptan tecnología solo si la curva de aprendizaje es mínima. Se frustran al perder clientes por no tener un catálogo ordenado. Su objetivo principal es cerrar más contratos rápidamente. | Uso frecuente de internet y aplicaciones para resolver necesidades. Se frustran al perder tiempo buscando en grupos desorganizados de Facebook o esperando que les envíen fotos sueltas. Su objetivo es encontrar al proveedor ideal de forma rápida y segura. |
 
-<div align="center">
+
