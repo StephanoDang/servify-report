@@ -379,3 +379,45 @@ Con el objetivo de conocer cómo los profesionales independientes gestionan actu
 La información recopilada fue revisada y organizada para identificar comportamientos recurrentes, problemas comunes y necesidades no cubiertas. Este análisis permitió obtener una visión más clara sobre cómo los profesionales luchan y se frustran contra los algoritmos de las redes sociales, y cómo los clientes finales pierden tiempo valioso ante la falta de catálogos formales y validados.
 
 A partir de estos hallazgos, se pudieron establecer criterios clave para el desarrollo de Servify, asegurando que la solución responda a situaciones reales, elimine la fricción en el proceso de búsqueda y aporte un valor contundente: mayores ingresos y formalidad para el profesional, y seguridad y rapidez para el cliente.
+
+### 2.2.1. Diseño de entrevistas
+
+En esta sección se define la información a recolectar de los segmentos objetivo. Los datos básicos de los entrevistados serán registrados mediante un formulario, el cual estará disponible a través del siguiente enlace: [INSERTA_TU_LINK_DE_GOOGLE_FORMS_AQUI]
+
+**Entrevistas Segmento 1: Trabajadores independientes y de oficios**
+1. ¿Cuál es su nombre y apellido?
+2. ¿Cuál es su edad?
+3. ¿Qué sistema operativo usa en su dispositivo móvil (ej. Android, iOS)?
+4. ¿Qué sistema operativo usa en su computadora y/o laptop (ej. Windows, macOS)?
+5. ¿Podría contarnos a qué oficio se dedica y cuánto tiempo lleva ofreciendo sus servicios?
+6. ¿Cómo consigue la mayoría de sus clientes actualmente (boca a boca, referidos, redes sociales)?
+7. ¿Qué herramientas utiliza para mostrar su trabajo o portafolio a los clientes potenciales?
+8. ¿Qué tan difícil le resulta captar nuevos clientes a través de redes sociales como Facebook o Instagram?
+9. ¿Cuáles son las mayores frustraciones que enfrenta al intentar promocionar su negocio en internet?
+10. ¿Alguna vez ha perdido un contrato por no tener un catálogo o portafolio organizado para mostrar rápidamente?
+11. ¿Ha utilizado alguna plataforma o directorio web para ofrecer sus servicios? ¿Cuál fue su experiencia?
+12. Si existiera una plataforma sencilla y exclusiva para crear su portafolio sin necesidad de saber usar redes sociales, ¿cree que le ayudaría?
+13. ¿Qué tan importante es para usted que los clientes puedan contactarlo directamente a su WhatsApp con un solo clic?
+14. ¿Le resultaría útil un sistema donde sus clientes anteriores puedan dejarle reseñas y calificaciones de 1 a 5 estrellas?
+15. ¿Qué información considera indispensable que debe ir en su perfil profesional digital?
+16. ¿Qué lo desmotivaría o qué preocupaciones tendría al registrarse en una nueva plataforma de oficios?
+17. ¿Estaría dispuesto a pagar una suscripción económica para destacar su perfil y aparecer en los primeros resultados de búsqueda? ¿Por qué?
+
+**Entrevistas Segmento 2: Clientes finales (Organizadores y hogares)**
+1. ¿Cuál es su nombre y apellido?
+2. ¿Cuál es su edad?
+3. ¿Qué sistema operativo usa en su dispositivo móvil (ej. Android, iOS)?
+4. ¿Qué sistema operativo usa en su computadora y/o laptop (ej. Windows, macOS)?
+5. ¿Podría contarnos un poco sobre usted y con qué frecuencia suele organizar eventos o requerir servicios de oficios para el hogar?
+6. Cuando necesita contratar a un profesional independiente (ej. un gasfitero, un DJ, un decorador), ¿cómo suele buscarlo?
+7. ¿Qué tan importante es para usted ver fotos claras o el portafolio del trabajador antes de decidir contratarlo?
+8. ¿Alguna vez ha tenido una mala experiencia, mal servicio o ha sido estafado al contratar a alguien por internet o redes sociales? ¿Qué pasó?
+9. ¿Cuáles son las mayores frustraciones que tiene al buscar talento local en plataformas desorganizadas como Facebook Marketplace?
+10. ¿Qué factores le generan mayor confianza al momento de decidir a qué profesional contactar?
+11. Si existiera un directorio web exclusivo de profesionales verificados con fotos de sus trabajos, ¿cómo lo utilizaría?
+12. ¿Qué tanto valora poder leer reseñas reales de otras personas antes de contactar a un trabajador independiente?
+13. ¿Le parece más cómodo contactar al proveedor a través de un chat interno de la página o prefiere que la web lo redirija a su WhatsApp?
+14. ¿Qué tipo de filtros le gustaría tener al buscar un servicio (precio, ubicación, calificación por estrellas)?
+15. ¿Qué características debería tener esta plataforma para que usted la prefiera por encima de seguir buscando en grupos de Facebook?
+16. ¿Qué aspecto le haría desconfiar de una plataforma de este tipo?
+17. ¿Estaría dispuesto a recomendar esta plataforma a sus conocidos si le ayuda a encontrar un buen profesional de forma rápida y segura?
