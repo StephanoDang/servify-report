@@ -1,3 +1,4 @@
+<div align="center">
 
   <img src="https://via.placeholder.com/150?text=Servify+Logo" alt="Logo Servify" width="120">
 
@@ -6,7 +7,8 @@
 
   <br>
 
-<h3><strong>Informe Técnico de Producto</strong></h3>
+<h3><strong>Informe Técnico de Producto: Servify</strong></h3>
+<h4>Marketplace Web basado en Arquitectura de Microservicios para resolver la informalidad y la fricción en la contratación de servicios en el sector de eventos privados en Lima Metropolitana.</h4>
 
   <br>
 
@@ -42,7 +44,9 @@
 
 | Versión | Fecha | Autor | Descripción de Modificación |
 |---------|-------|-------|-----------------------------|
-| 1.0 | 30/07/2026 | Stephano Dang | Creación inicial del documento. Definición del Startup Profile (Misión, Visión y Descripción). |
+| 1.0 | 30/07/2026 | Stephano Dang | Creación inicial del documento. Definición del Startup Profile. |
+| 1.1 | 25/08/2026 | Stephano Dang | Reestructuración al sector exclusivo de eventos y 3 segmentos objetivo. |
+| 1.2 | 26/08/2026 | Stephano Dang | Integración del modelo transaccional (contratos digitales y cobro de comisión). |
 
 ---
 
@@ -65,26 +69,24 @@
 
 <div style="page-break-after: always;"></div>
 
-
-
-
-
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
 
-**Servify** es una startup tecnológica que desarrolla soluciones digitales enfocadas en democratizar la visibilidad online de los trabajadores independientes y emprendedores. A través de su plataforma intuitiva, la aplicación permite a los profesionales crear perfiles personalizados, exhibir galerías visuales de sus proyectos y conectar de manera directa con clientes potenciales. La herramienta digitaliza la oferta de oficios y servicios, transformando el tradicional "boca a boca" en un portafolio digital accesible y profesional para promover negocios más rentables y escalables.
+**Servify** es un Marketplace Web transaccional diseñado para resolver la informalidad y la fricción en la contratación de servicios dentro del sector de eventos privados en Lima Metropolitana. A través de su plataforma intuitiva, la aplicación centraliza la oferta y demanda, transformando los tratos informales e inseguros (realizados tradicionalmente por WhatsApp) en un ecosistema digital donde las reservas se formalizan mediante **contratos digitales integrados**.
 
-La plataforma está diseñada para atender necesidades específicas de diversos perfiles de usuario. Por un lado, ofrece a los **proveedores de eventos** (decoradores, DJs, servicios de catering, animadores) un espacio especializado para mostrar la calidad de su trabajo sin depender de la complejidad o los algoritmos de las redes sociales; por otro lado, permite a los **trabajadores de oficios técnicos y manuales** (carpinteros, gasfiteros, reposteros) tener una presencia digital formal y confiable. Asimismo, brinda a los **clientes finales** una alternativa segura y centralizada para buscar, comparar mediante reseñas y contactar al talento local adecuado para sus necesidades puntuales.
+La plataforma está diseñada para atender a un ecosistema de tres perfiles fundamentales:
+1. **Cliente:** Quien contrata para su evento.
+2. **Proveedor del servicio de eventos (Organizador):** El profesional que brinda el servicio para el evento y necesita exhibir su portafolio.
+3. **Personas que quieran trabajar para el proveedor (Personal de apoyo):** Talento que busca conectar con organizadores de manera segura para trabajar en sus eventos.
 
-Con un firme compromiso con la inclusión digital y el empoderamiento económico, **Servify** busca liderar la transformación tecnológica del sector de oficios independientes en el Perú. Al combinar una interfaz amigable orientada a usuarios no nativos digitales con un robusto sistema de perfiles, la startup no solo ayuda a incrementar las oportunidades laborales del talento local, sino que también fomenta una comunidad basada en la transparencia y la confianza profesional, asegurando que cada servicio brindado fortalezca la reputación del trabajador.
+**Modelo de Negocio:** Inspirado en plataformas transaccionales exitosas (como Airbnb o Booking), Servify actúa como un intermediario seguro. Los clientes y proveedores generan un acuerdo formal dentro de la página web. La plataforma procesa el pago y cobra un pequeño porcentaje de comisión por el servicio de intermediación, garantizando a ambas partes un respaldo legal e institucional ante cancelaciones o incumplimientos.
 
-**Misión:** Impulsar el crecimiento económico y la formalización digital de los trabajadores independientes mediante soluciones tecnológicas accesibles que aumenten su visibilidad, optimicen la exhibición de su trabajo y faciliten conexiones seguras y directas con clientes que requieran sus servicios.
+**Misión:** Impulsar el crecimiento económico y la formalización en la industria de eventos mediante un marketplace seguro que conecte a clientes, proveedores y personal de apoyo, brindando contratos digitales que protejan el dinero y el tiempo de los usuarios.
 
-**Visión:** Ser el marketplace y directorio de oficios de referencia en el Perú y Latinoamérica, liderando la creación de un ecosistema digital inclusivo donde el talento local y las necesidades de los usuarios converjan para generar oportunidades de trabajo justas, transparentes y de alta calidad.
-
+**Visión:** Ser la plataforma transaccional de eventos de referencia en el Perú, liderando la creación de un ecosistema donde el talento y las necesidades de celebración converjan bajo un marco de confianza, garantías y alta calidad.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -92,7 +94,7 @@ Al ser un proyecto de portafolio personal, el desarrollo y arquitectura de la pl
 
 | Perfil | Datos del Desarrollador | Conocimientos y Habilidades |
 | :---: | :--- | :--- |
-| <img src="images/stephano.jpeg" width="120" style="border-radius: 8px;"><br>**Full-Stack Developer** | **Nombres y Apellidos:**<br>Angelo Stephano Moscoso Bejar | **Stack Tecnológico:**<br>C++, CSS, HTML, Vue.js, SQL, JS.<br><br>**Aportes al Proyecto:**<br>Encargado del diseño de la arquitectura de datos, desarrollo frontend/backend, maquetación de interfaces responsivas y la implementación de la lógica de negocio. |
+| <img src="images/stephano.jpeg" width="120" style="border-radius: 8px;"><br>**Full-Stack Developer** | **Nombres y Apellidos:**<br>Angelo Stephano Moscoso Bejar | **Stack Tecnológico:**<br>C++, CSS, HTML, Vue.js, SQL, JS.<br><br>**Aportes al Proyecto:**<br>Encargado del diseño de la arquitectura de datos, desarrollo frontend/backend, maquetación de interfaces responsivas y la implementación de la lógica de negocio (incluyendo la pasarela de pagos y generación de contratos). |
 
 ## 1.2. Solution Profile
 
@@ -101,96 +103,99 @@ Al ser un proyecto de portafolio personal, el desarrollo y arquitectura de la pl
 ### Antecedentes
 <div style="text-align: justify">
 
-En el mercado laboral actual, la presencia en internet se ha vuelto un factor indispensable para la captación de clientes. Sin embargo, un gran porcentaje de trabajadores independientes, técnicos y profesionales de oficios en el Perú opera en la informalidad digital. A pesar de contar con talento empírico y amplia experiencia, la falta de una plataforma formal, intuitiva y accesible limita su crecimiento comercial, dejándolos en desventaja competitiva frente a agencias o empresas establecidas que sí cuentan con los recursos para mantener sitios web corporativos.
+En la industria de eventos privados de Lima Metropolitana, la presencia digital y la formalidad en las contrataciones son factores indispensables que actualmente se encuentran desatendidos. Gran parte de este ecosistema opera en una informalidad crítica. A pesar de que la organización de cumpleaños, quinceañeros, bodas y eventos corporativos mueve grandes sumas de dinero, la falta de una plataforma transaccional y centralizada limita el crecimiento de los proveedores y expone a los clientes a riesgos financieros considerables.
 
-Un caso crítico se observa en el rubro de la organización de eventos privados, como celebraciones de 15 años, bodas o fiestas infantiles. Proveedores de servicios como decoradores, personal de catering, animadores o DJs se ven obligados a depender casi exclusivamente de las recomendaciones tradicionales (el "boca a boca"). Hoy en día se utilizan mucho redes sociales como **TikTok o Instagram** para intentar ganar visibilidad; sin embargo, manejar estas plataformas resulta ser un desafío mayor. Lidiar con los algoritmos, las tendencias y la necesidad de generar contenido viral constante es algo que la gran mayoría de estos trabajadores no logra dominar. Ellos necesitan una herramienta mucho más sencilla y directa que no exija ser un experto creador de contenido, permitiéndoles enfocarse en la ejecución práctica de su verdadero oficio.
+Actualmente, los acuerdos entre clientes y proveedores de eventos se limitan a "quedar" de palabra mediante mensajes de WhatsApp. Al no existir un contrato formal que respalde a ninguna de las partes, los clientes se exponen a estafas (pagos por adelantado donde el proveedor no asiste o brinda un servicio deficiente), y los proveedores se arriesgan a cancelaciones de última hora sin recibir la remuneración justa por reservar la fecha.
 
-Actualmente, la búsqueda y exhibición de estos trabajos es desorganizada. Los profesionales suelen utilizar plataformas genéricas como Facebook Marketplace o se ven en la necesidad de enviar fotografías sueltas por WhatsApp cuando un prospecto solicita ver su portafolio. No existe un ecosistema centralizado donde un decorador, un carpintero o un repostero puedan estructurar un catálogo profesional verificable. La falta de esta herramienta genera un vacío tecnológico que Servify busca llenar, transformando la exhibición informal en un directorio estructurado que conecte el talento local con los clientes de forma directa, profesional y segura, con una curva de aprendizaje mínima.
+Por otro lado, cuando un proveedor o agencia necesita reclutar personas que quieran trabajar para su evento (personal de apoyo como DJs, animadoras o mozos), se ven obligados a recurrir a grupos informales de Facebook. Esta dinámica carece de garantías legales y filtros de confianza, exponiendo al organizador al ausentismo y al trabajador independiente a cancelaciones e intermediarios abusivos. Esta desorganización logística genera una alta fricción y dificultad en la contratación de servicios, evidenciando la necesidad urgente de una plataforma web que no solo sirva como directorio o vitrina visual, sino que asegure la transacción completa mediante contratos digitales vinculantes.
 
 </div>
 
 ### Problemática
 
 <div style="text-align: justify">
-Para entender a profundidad la necesidad que impulsa este proyecto, se aplicó la técnica de análisis de las 5W's + 2H's:
+Para entender a profundidad la necesidad que impulsa este proyecto y justificar el desarrollo del modelo transaccional, se aplicó la técnica de análisis de las 5W's + 2H's:
 
 ### 5W's
-### What (¿Cuál es el problema?):
-Los trabajadores independientes y proveedores de oficios carecen de un espacio digital especializado e intuitivo para mostrar su portafolio de manera profesional. Esto limita severamente su alcance comercial y crecimiento, mientras que los clientes finales enfrentan dificultades y desconfianza al intentar encontrar talento local verificado sin tener que navegar por redes sociales genéricas y desorganizadas.
+**What (¿Cuál es el problema?):**
+La industria de eventos locales sufre de alta fricción operativa y riesgo financiero en la contratación. Los acuerdos informales por WhatsApp carecen de validez, generando estafas, desconfianza y cancelaciones de última hora.
 
-### When (¿Cuándo ocurre el problema?):
-El problema se evidencia de manera constante, pero se agudiza cuando el profesional intenta conseguir nuevos clientes fuera de su círculo inmediato de referidos, o cuando un cliente necesita organizar un evento (o solucionar un requerimiento técnico) y no cuenta con contactos directos de confianza para realizar el trabajo.
+**When (¿Cuándo ocurre el problema?):**
+Al momento de cerrar un trato y realizar el pago del anticipo para asegurar un servicio (especialmente en temporadas altas de fiestas y eventos).
 
-### Where (¿Dónde ocurre el problema?):
-En el mercado local de servicios independientes, oficios técnicos y organización de eventos a nivel nacional (Perú), donde la transición hacia la formalización digital aún es deficiente y la oferta de servicios se encuentra dispersa en internet.
+**Where (¿Dónde ocurre el problema?):**
+En el sector de servicios y eventos privados en el mercado local de Lima Metropolitana.
 
-### Who (¿A quién o quiénes afecta el problema?):
-- **Trabajadores independientes y de oficios:** Decoradores, proveedores de catering, DJs, reposteros, carpinteros y técnicos que pierden oportunidades de contrato por falta de visibilidad online y no dominan la creación de contenido para redes sociales.
-- **Clientes finales:** Personas y familias que gastan tiempo valioso buscando profesionales confiables y tienen dificultades para verificar la calidad del trabajo antes de contratar.
-- **El desarrollo económico local:** Debido al estancamiento de pequeños emprendedores que no logran escalar sus negocios por la brecha digital.
+**Who (¿A quién o quiénes afecta el problema?):**
+* **Clientes:** Familias y empresas que arriesgan su dinero al no tener contratos que garanticen el servicio.
+* **Proveedores de eventos:** Organizadores que pierden ingresos por cancelaciones informales.
+* **Personas que quieran trabajar:** Talento independiente excluido de contrataciones seguras.
 
-### Why (¿Por qué sucede el problema?):
-Porque desarrollar y mantener una página web propia resulta costoso y técnicamente complejo. Simultáneamente, aunque plataformas como **TikTok e Instagram** están en pleno auge, su manejo exige estrategias de edición, publicación y gestión de comunidades que estos profesionales empíricos no dominan. Ellos necesitan una solución mucho más sencilla y directa para exhibirse. Además, las plataformas de compraventa existentes carecen de filtros diseñados para validar el profesionalismo de los servicios ofrecidos.
+**Why (¿Por qué sucede el problema?):**
+Porque no existe una pasarela transaccional especializada en eventos que brinde contratos digitales vinculantes para proteger el dinero del cliente y el tiempo del proveedor, dejando las negociaciones relegadas a redes sociales no reguladas.
 
 ### 2H's
-### How (¿Cómo aparece el problema?):
-El problema se manifiesta a través del estancamiento en la cartera de clientes del trabajador. Constantemente se ven en la necesidad de recurrir a métodos informales, enviando fotos desordenadas por mensajería cuando un potencial cliente pide "ver sus trabajos". Del lado del cliente, este proceso informal genera fricción, se percibe como poco profesional y prolonga innecesariamente la decisión de contratación.
+**How (¿Cómo aparece el problema?):**
+Aparece como desconfianza mutua. El cliente teme depositar a un desconocido, y el proveedor teme reservar una fecha sin garantías reales.
 
-### How Much (¿Cuánto afecta el problema?):
-El impacto económico se traduce en una pérdida significativa de contratos potenciales, lo que reduce drásticamente los ingresos mensuales de los emprendedores locales y frena su escalabilidad. Para el cliente, representa un alto costo de oportunidad reflejado en horas invertidas en búsquedas ineficientes y el riesgo financiero de contratar servicios de baja calidad por no contar con un portafolio validado que respalde al trabajador.
-
+**How Much (¿Cuánto afecta el problema?):**
+Impacta directamente en el riesgo financiero para el cliente y en la pérdida significativa de ingresos para los proveedores ante incumplimientos sin penalidad formal.
 </div>
 
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-El estado actual de la exhibición de portafolios para trabajadores independientes (proveedores de eventos y oficios) depende del "boca a boca", envío de fotos desordenadas por WhatsApp o del uso de redes sociales complejas (como TikTok o Instagram) que no dominan. Lo que los profesionales necesitan es una forma sencilla y directa de centralizar su trabajo en un perfil profesional sin tener que lidiar con algoritmos ni creación de contenido viral. Hemos observado que la falta de una presencia digital formal limita su crecimiento y les hace perder oportunidades de contrato.
+**Problema 1: La informalidad transaccional entre Clientes y Proveedores**
+El estado actual de la contratación de servicios para eventos privados en Lima Metropolitana depende casi en su totalidad de acuerdos informales o "de palabra" realizados a través de WhatsApp. Lo que los clientes finales necesitan es una garantía real de que su dinero no será robado y de que el proveedor cumplirá con el servicio el día de su celebración. Por el lado de los proveedores, ellos necesitan asegurar sus ingresos y protegerse legalmente ante clientes que cancelan a última hora sin asumir ninguna penalidad. Hemos observado que la falta de una pasarela formal genera una alta fricción en la contratación de servicios, un clima de desconfianza mutua y un riesgo financiero crítico para ambas partes.
 
-**¿Cómo podríamos diseñar una plataforma accesible que permita a los trabajadores independientes exhibir su portafolio profesionalmente y captar más clientes con una curva de aprendizaje mínima?**
+**¿Cómo podríamos diseñar un marketplace transaccional que permita a los clientes y proveedores cerrar sus acuerdos mediante contratos digitales automáticos y pagos seguros, eliminando el riesgo de estafas y garantizando el cumplimiento del evento?**
 
-El estado actual de la búsqueda de talento local (decoradores, DJs, técnicos) obliga a los clientes finales a recurrir a plataformas genéricas como Facebook Marketplace o a depender de recomendaciones limitadas de su círculo cercano. Lo que los clientes necesitan es visibilidad sobre la calidad real del trabajo y reseñas confiables para tomar decisiones seguras. Hemos observado que esta fricción genera desconfianza, pérdida de tiempo y el riesgo constante de contratar servicios de baja calidad.
+---
 
-**¿Cómo podríamos ofrecer a los clientes finales un directorio centralizado y confiable que les permita buscar, comparar y contactar rápidamente a profesionales verificados para sus eventos o necesidades del hogar?**
+**Problema 2: La desorganización en el reclutamiento del Personal de Apoyo**
+El estado actual de la búsqueda y subcontratación de personal de apoyo (animadoras, DJs, bartenders, mozos) obliga a los proveedores de eventos a recurrir a grupos informales de Facebook Marketplace. Lo que los organizadores necesitan es una forma rápida, confiable y verificada de armar su equipo de trabajo (logística) para fechas específicas. A su vez, las personas que quieren trabajar para el proveedor necesitan una vitrina formal para exhibir su talento y conseguir trabajos recurrentes sin depender de intermediarios abusivos. Hemos observado que esta desconexión genera incumplimientos laborales, estrés de última hora para el organizador y estancamiento económico para el trabajador independiente.
+
+**¿Cómo podríamos integrar un módulo de bolsa de trabajo (B2B) dentro del marketplace donde los proveedores puedan reclutar de forma confiable a su equipo, y donde el personal de apoyo pueda construir un portafolio validado por reseñas para postular a estas ofertas?**
 
 #### 1.2.2.2. Lean UX Assumptions
 
 **Assumptions Worksheet**
 
 - **¿Quién es el usuario?**
-  Tenemos dos tipos de usuarios principales: los profesionales de oficios (decoradores, DJs, proveedores de catering, carpinteros, técnicos, etc. que buscan clientes) y los clientes finales (personas o familias que necesitan organizar un evento o solucionar un requerimiento doméstico).
+  Tenemos tres tipos de usuarios principales interconectados: Los **clientes** (personas o empresas que necesitan contratar un servicio para su evento), los **proveedores de servicios de eventos** (organizadores, agencias o profesionales que ejecutan el evento) y las **personas que quieran trabajar para el proveedor** (personal de apoyo como mozos, DJs, animadoras o bartenders).
 
 - **¿Dónde encaja nuestro producto en su trabajo o vida?**
-  Para el profesional, Servify se integrará como su herramienta principal de ventas y carta de presentación digital. Para el cliente final, funcionará como el directorio de confianza "on-demand" al que acudirán desde su smartphone o computadora cada vez que necesiten cotizar y contratar un servicio específico.
+  Para el cliente final, Servify será la herramienta segura "on-demand" a la que acudirán para cotizar, firmar un contrato y reservar su evento sin miedo a estafas. Para el proveedor, será su principal vitrina comercial, gestor de cobros y su bolsa de reclutamiento B2B. Para el personal de apoyo, funcionará como su bolsa de trabajo validada para conseguir "gigs" recurrentes los fines de semana.
 
 - **¿Qué problemas resuelve nuestro producto?**
-  El producto resuelve la informalidad digital del trabajador independiente, la brecha tecnológica que les impide usar redes sociales como canal de ventas eficiente, y la desconfianza/frustración del cliente al buscar talento local verificado.
+  El producto resuelve la fricción en la contratación de servicios, la vulnerabilidad financiera (estafas y cancelaciones sin penalidad) generada por "quedar" de manera informal por WhatsApp, y la dificultad logística de los organizadores para reclutar talento de apoyo confiable a última hora.
 
 - **¿Cuándo y cómo es usado nuestro producto?**
-  El profesional lo usará para crear/actualizar su galería de trabajos, recibir solicitudes y gestionar contactos. El cliente final lo usará esporádicamente para realizar búsquedas mediante filtros (categoría, ubicación), leer reseñas y presionar un botón de contacto directo.
+  Se utiliza en las etapas de planificación y cierre del evento. El cliente lo usará para realizar búsquedas, firmar el contrato digital y depositar el pago en garantía. El proveedor lo usará para gestionar estas reservas, recibir su dinero tras el evento y publicar ofertas para contratar a su personal. El personal de apoyo lo usará para postular a estas ofertas y armar su portafolio.
 
 - **¿Qué características son importantes?**
-  Para el segmento de profesionales: creación de perfiles intuitiva, carga rápida de galerías visuales y botón de contacto directo (ej. WhatsApp). Para el segmento de clientes: motor de búsqueda con filtros, sistema de reseñas de 1 a 5 estrellas y validación visual de los proyectos realizados.
+  Para generar confianza absoluta, las características clave son: pasarela de pagos integrada, generación automática de contratos digitales vinculantes, creación de perfiles con galerías visuales de carga rápida, un módulo de bolsa de trabajo interno (B2B) y un sistema cruzado de reseñas de 1 a 5 estrellas.
 
 - **¿Cómo debe verse nuestro producto y cómo comportarse?**
-  Nuestro producto debe transmitir profesionalismo, seguridad y confianza. Su interfaz debe ser extremadamente limpia, visual e intuitiva, asegurando que un profesional no nativo digital pueda configurar su perfil sin fricciones ni confusiones técnicas.
+  Nuestro producto debe transmitir profesionalismo, seguridad transaccional y confianza (similar a la experiencia de reservar en Airbnb o Booking). Su interfaz debe ser extremadamente limpia e intuitiva, asegurando que ningún usuario sufra fricción tecnológica al momento de vincular su método de pago o firmar un acuerdo.
 
 **Business Assumptions:**
 
-- Creemos que los profesionales independientes están dispuestos a pagar una suscripción (mensual o anual) por un perfil "Premium" destacado, siempre que la plataforma les genere un retorno de inversión mediante la captación de nuevos clientes.
-- Estas necesidades se pueden resolver mediante un modelo de "Marketplace de Servicios" o directorio digital con un enfoque inicial *freemium* para construir rápidamente una base masiva de proveedores.
-- Creemos que los clientes finales prefieren navegar por una plataforma especializada con reseñas y portafolios organizados antes que contactar a desconocidos a través de redes sociales genéricas.
-- Nuestro mayor riesgo es el "problema del huevo y la gallina": que los clientes no encuentren suficientes opciones en la plataforma en su etapa inicial, o que los profesionales abandonen sus perfiles si no reciben contactos rápidos.
-- Creemos que las alianzas estratégicas con gremios locales, asociaciones de eventos o proveedores mayoristas pueden acelerar la adopción masiva de la plataforma por parte de los trabajadores.
+- Creemos que los clientes y los proveedores están dispuestos a cerrar sus acuerdos a través de la plataforma y pagar un pequeño porcentaje de comisión transaccional, siempre y cuando la plataforma les garantice un contrato formal, protección de su dinero y seguridad frente a incumplimientos.
+- Creemos que ofrecer contratos digitales automatizados será el principal diferenciador competitivo frente a la informalidad total que predomina en los grupos de Facebook Marketplace en Lima Metropolitana.
+- Creemos que al ofrecer portafolios gratuitos a las personas que quieran trabajar para los proveedores (personal de apoyo), estos actuarán como embajadores orgánicos al compartir sus enlaces, atrayendo a los organizadores hacia nuestro ecosistema.
+- Nuestro mayor riesgo logístico es mantener el equilibrio simultáneo en los tres lados del marketplace: asegurar que haya suficientes eventos disponibles para el personal de apoyo, suficientes organizadores verificados para los clientes, y suficiente demanda de clientes para mantener a los organizadores pagando la comisión.
+- Creemos que las alianzas estratégicas iniciales con gremios locales de eventos o asociaciones de catering en Lima Metropolitana pueden acelerar la adopción de la plataforma por parte de los proveedores.
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- Creemos que si ofrecemos a los trabajadores independientes y proveedores de eventos una plataforma simplificada para crear portafolios profesionales sin requerir conocimientos avanzados en redes sociales, entonces aumentarán su visibilidad online y lograrán captar más clientes. Sabremos que estamos en lo correcto cuando al menos el 30% de los profesionales registrados reciba su primera solicitud de cotización o contacto directo a través de la plataforma durante su primer mes de uso.
+- Creemos que si ofrecemos a los clientes y proveedores de eventos una pasarela de pagos segura con generación automática de contratos digitales, entonces abandonarán la costumbre de "quedar" informalmente por WhatsApp y reducirán drásticamente su riesgo a sufrir estafas o cancelaciones. Sabremos que estamos en lo correcto cuando logremos que al menos el 30% de los usuarios activos cierre su reserva directamente en la plataforma (pagando el porcentaje de comisión) durante los primeros tres meses de lanzamiento.
 
-- Creemos que si brindamos a los clientes finales un directorio centralizado con galerías visuales y un sistema de reseñas de 1 a 5 estrellas, entonces sentirán mayor seguridad y reducirán el tiempo invertido en buscar talento local confiable. Sabremos que estamos en lo correcto cuando las analíticas muestren que los usuarios completan el flujo desde la búsqueda hasta hacer clic en "Contactar" en menos de 5 minutos, y cuando los servicios contratados mantengan un promedio de calificación superior a 4 estrellas.
+- Creemos que si integramos un módulo de bolsa de trabajo interna (B2B) exclusivo para los proveedores de servicios de eventos, entonces estos podrán gestionar su logística y reclutar personal de apoyo de manera mucho más rápida y confiable que publicando en grupos de Facebook. Sabremos que estamos en lo correcto cuando las analíticas muestren que el 40% de los proveedores activos utilice el sistema para contratar al menos a un talento verificado por mes.
 
-- Creemos que si proporcionamos a los profesionales de oficios la opción de adquirir planes de suscripción "Premium" para destacar sus perfiles en los primeros resultados de búsqueda, entonces adoptarán el modelo de pago al percibir un retorno de inversión real. Sabremos que estamos en lo correcto cuando logremos una tasa de conversión de al menos el 15% de usuarios gratuitos a planes de pago dentro de los primeros seis meses de lanzamiento.
-
+- Creemos que si proporcionamos a las personas que quieran trabajar para el proveedor (mozos, animadoras, DJs, etc.) la opción de crear un portafolio visual completamente gratuito dentro de un entorno validado, entonces adoptarán la plataforma para escapar de la informalidad y de los intermediarios abusivos. Sabremos que estamos en lo correcto cuando logremos que el 60% del personal de apoyo registrado complete al 100% su galería de fotos, videos y referencias durante su primera semana de uso.
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -198,49 +203,44 @@ El estado actual de la búsqueda de talento local (decoradores, DJs, técnicos) 
   <img src="images/lean_ux.png" alt="Lean UX Canvas de Servify">
 </div>
 
-
 ## 1.3. Segmentos Objetivo
 
-| | Segmento 1: Trabajadores independientes y de oficios | Segmento 2: Clientes finales (Organizadores y hogares) |
-| :--- | :--- | :--- |
-| **Variables** | Profesionales empíricos, técnicos y proveedores de servicios (decoradores, DJs, catering, mantenimiento). | Personas y familias que requieren contratar servicios para eventos privados o necesidades del hogar. |
-| **Geográfica** | Ubicados principalmente en zonas urbanas y suburbanas del Perú (con foco inicial en Lima Metropolitana), donde existe una alta demanda constante de eventos y reparaciones. | Ubicados en zonas urbanas y suburbanas, en distritos con actividad social, familiar y demanda de servicios a domicilio. |
-| **Demográfica** | **Edad:** 20-55 años. **Género:** Mixto. **Educación:** Empírica, técnica o superior. **Ingresos:** Variables (dependientes del flujo de contratos). **Ocupación:** Emprendedores de oficios. | **Edad:** 25-55 años. **Género:** Mixto. **Educación:** Secundaria completa o superior. **Ingresos:** Medio a alto. **Estado civil:** Padres de familia, parejas a punto de casarse, solteros independientes. |
-| **Psicológica** | Buscan crecimiento económico, formalidad y reconocimiento por su trabajo. Se sienten abrumados por la complejidad de crear contenido viral para redes sociales. Valoran la simplicidad y las herramientas directas que les ahorren tiempo en ventas. | Valoran la confianza, la seguridad y la practicidad. Buscan reducir el riesgo de ser estafados o recibir un mal servicio. Prefieren tomar decisiones racionales basadas en validación visual (fotos/portafolios) y social (reseñas). |
-| **Función de comportamiento** | Uso básico o intermedio de smartphones (WhatsApp, Facebook). Adoptan tecnología solo si la curva de aprendizaje es mínima. Se frustran al perder clientes por no tener un catálogo ordenado. Su objetivo principal es cerrar más contratos rápidamente. | Uso frecuente de internet y aplicaciones para resolver necesidades. Se frustran al perder tiempo buscando en grupos desorganizados de Facebook o esperando que les envíen fotos sueltas. Su objetivo es encontrar al proveedor ideal de forma rápida y segura. |
-
-
+| | Segmento 1: Cliente | Segmento 2: Proveedor del Servicio de Eventos | Segmento 3: Personas que quieran trabajar para el proveedor |
+| :--- | :--- | :--- | :--- |
+| **Variables** | Personas naturales, familias o representantes de empresas que requieren contratar y organizar proveedores verificados para eventos privados (cumpleaños, quinceañeros, reuniones corporativas). | Profesionales independientes, emprendedores o agencias que brindan servicios integrales para la planificación, decoración y ejecución de eventos en general. | Trabajadores independientes y talento técnico (animadoras, catering, bartenders, DJs, mozos) que buscan conectarse con organizadores para trabajar por horas o evento. |
+| **Geográfica** | Ubicados principalmente en zonas urbanas y suburbanas de Lima Metropolitana, en distritos con alta actividad social, residencial y empresarial. | Ubicados en Lima Metropolitana. Con capacidad logística para trasladarse y cubrir eventos en distintos distritos de la capital. | Residentes de Lima Metropolitana. Con disponibilidad para desplazarse a los locales o viviendas donde se realice la celebración de manera puntual. |
+| **Demográfica** | **Edad:** 25-55 años. **Género:** Mixto. **Educación:** Secundaria completa o superior. **Ingresos:** Medio a alto. **Estado civil:** Padres de familia, parejas, asistentes administrativos. | **Edad:** 25-50 años. **Género:** Mixto. **Educación:** Empírica, técnica o superior. **Ingresos:** Variables. **Ocupación:** Emprendedores y dueños de pequeñas empresas de eventos. | **Edad:** 18-45 años. **Género:** Mixto. **Educación:** Básica, empírica o técnica. **Ingresos:** Variables (pago por evento). **Perfil:** Estudiantes, artistas o técnicos. |
+| **Psicológica** | Tienen temor a las estafas online y a los pagos por adelantado sin respaldo legal. Valoran la confianza, la puntualidad y la seguridad de tener un contrato formal. Prefieren tomar decisiones basadas en reseñas verificadas y catálogos visuales. | Buscan formalizar sus ventas, asegurar ingresos constantes y escalar sus negocios. Sienten frustración ante las cancelaciones de última hora por tratos informales. Valoran herramientas que les ahorren tiempo y brinden protección legal. | Buscan estabilidad en el flujo de trabajo continuo y reconocimiento. Sienten frustración al ser estafados, no recibir sus pagos o lidiar con intermediarios abusivos. Desean pertenecer a un entorno seguro y validado. |
+| **Función de comportamiento** | Uso frecuente de internet y comercio electrónico. Están dispuestos a pagar una pequeña comisión si la plataforma asegura su dinero y garantiza el cumplimiento del evento. Su objetivo es encontrar proveedores reduciendo la fricción y el estrés. | Adoptarán la plataforma tecnológica para gestionar sus ventas con contratos y evitar clientes irresponsables. Buscan agilizar sus procesos operativos y reclutar personal de apoyo de manera confiable cuando la demanda lo requiere. | Alto uso de redes sociales (Instagram, TikTok) para intentar captar trabajos, pero con baja conversión. Utilizarán la plataforma para mantener un portafolio activo y postular a ofertas directas de los proveedores. |
 
 ---
 
 <div style="page-break-after: always;"></div>
 
-
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores
 
-### 1. Recomiendame.pe
+### 1. Directorios de Anuncios Locales y Clasificados Digitales
 <div style="text-align: justify">
-Recomiendame.pe es un directorio web a nivel nacional enfocado en la búsqueda y recomendación de profesionales y técnicos de diversos oficios. Su plataforma permite a los usuarios buscar servicios específicos y a los trabajadores publicar anuncios básicos sobre lo que hacen. 
+Existen múltiples directorios web a nivel nacional enfocados en la búsqueda y recomendación de servicios generales. Estas plataformas permiten a los usuarios buscar requerimientos específicos y a los trabajadores publicar anuncios básicos basados en texto sobre lo que hacen. 
 
-En cuanto a costos y modelo de negocio, es una alternativa gratuita o de muy bajo costo; sin embargo, no cuenta con un alto nivel de popularidad, marketing ni adopción masiva por parte de los clientes, lo que limita drásticamente la exposición y el retorno real que obtienen los trabajadores independientes al registrarse allí.
+En cuanto a costos y modelo de negocio, son alternativas gratuitas o de muy bajo costo; sin embargo, no cuentan con un alto nivel de popularidad ni adopción masiva en el rubro específico de eventos. Al ser estáticos, carecen del impacto visual (galerías dinámicas), las pasarelas de pago y la generación de contratos digitales que son vitales para garantizar seguridad en un evento privado. Esta carencia tecnológica limita drásticamente la exposición y el retorno real que obtienen los organizadores y el personal de apoyo al registrarse allí.
 </div>
 
 ### 2. Matrimonio.com.pe
 <div style="text-align: justify">
-Es una de las plataformas web y móviles más grandes en el rubro de eventos sociales en Latinoamérica. Funciona como un directorio súper especializado donde los proveedores de servicios pueden crear un perfil profesional, subir galerías de fotos de alta calidad y recibir reseñas detalladas de sus clientes.
+Es una de las plataformas web y móviles más grandes en el rubro de eventos sociales en Latinoamérica. Funciona como un directorio súper especializado donde los proveedores de servicios pueden crear un perfil profesional, subir galerías de fotos de alta calidad, utilizar herramientas de cotización y recibir reseñas detalladas de sus clientes. 
 
-Su modelo de negocio es freemium. Aunque crear un perfil básico es gratuito, la plataforma está altamente saturada, obligando a los profesionales a pagar planes premium costosos para aparecer en los primeros resultados. Además, su principal limitante es que está exclusivamente enfocada en bodas, dejando totalmente por fuera otros eventos privados altamente rentables.
+Su modelo de negocio es freemium. Aunque crear un perfil básico es gratuito, la plataforma está altamente saturada, obligando a los profesionales a pagar planes premium costosos para aparecer en los primeros resultados. Además, su principal limitante es que está exclusivamente enfocada en bodas, dejando totalmente por fuera el gigantesco y rentable mercado de cumpleaños, quinceañeros y eventos corporativos en Lima Metropolitana. Asimismo, su enfoque es solo de directorio (vitrina), careciendo de un modelo transaccional que asegure el dinero del cliente y de un espacio para que el personal de apoyo postule a trabajos.
 </div>
 
 ### 3. Facebook Marketplace y Grupos de Facebook
 <div style="text-align: justify">
-Aunque no es una plataforma especializada exclusiva para oficios, Facebook (a través de su Marketplace y Grupos locales) es actualmente el principal competidor indirecto, ya que es el ecosistema por defecto al que recurren los trabajadores independientes para intentar captar clientes. Permite subir fotos y colocar descripciones rápidas del servicio ofrecido.
+Aunque no es una plataforma especializada en la gestión de eventos, Facebook (a través de sus Grupos locales y Marketplace) es actualmente el principal ecosistema por defecto al que recurren tanto los organizadores como el personal de apoyo para intentar captar contratos. Permite subir fotos y colocar descripciones rápidas del servicio ofrecido. 
 
-Si bien es una herramienta totalmente gratuita, carece de una estructura profesional para portafolios. Los profesionales se enfrentan a la barrera de los algoritmos de redes sociales, la necesidad constante de "republicar" para no desaparecer, la alta informalidad y la ausencia de un sistema de reseñas centralizado y verificado que brinde seguridad real a los clientes finales frente a posibles estafas.
+Si bien es una herramienta totalmente gratuita y de tráfico masivo, carece de una estructura profesional para portafolios y transacciones. Los profesionales se enfrentan a la barrera de los algoritmos de redes sociales, la necesidad constante de "republicar" para no desaparecer y la altísima informalidad. Al no existir pasarelas de pago seguras ni contratos digitales integrados, los tratos se ven obligados a cerrarse "en el aire" mediante WhatsApp, lo que provoca una alta fricción en la contratación de servicios, dejando a los tres segmentos vulnerables a estafas e incumplimientos sin ninguna garantía de protección.
 </div>
-
 
 ### 2.1.1. Análisis Competitivo
 
@@ -250,7 +250,7 @@ Si bien es una herramienta totalmente gratuita, carece de una estructura profesi
   </tr>
   <tr>
     <td colspan="2"><b>¿Por qué llevar a cabo este análisis?</b></td>
-    <td colspan="4">El objetivo de este análisis es entender cómo los profesionales independientes y técnicos buscan clientes hoy en día, identificar las fallas de las plataformas actuales (desorganización, altos costos, exclusividad) y posicionar a Servify como la alternativa integral, accesible y segura. Esto es vital para encontrar el punto de equilibrio entre la informalidad de las redes sociales y los altos costos de los directorios premium.</td>
+    <td colspan="4">El objetivo de este análisis es entender cómo interactúan los tres segmentos (clientes, proveedores de eventos y personal de apoyo) en el mercado actual. Identificar las fallas críticas de las plataformas existentes (altos costos, informalidad absoluta, ausencia de garantías legales) es vital para justificar el desarrollo de Servify como un marketplace transaccional que resuelva definitivamente la fricción en la contratación de servicios en Lima Metropolitana.</td>
   </tr>
   <tr>
     <td colspan="2"></td>
@@ -261,163 +261,175 @@ Si bien es una herramienta totalmente gratuita, carece de una estructura profesi
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td><b>Servify</b><br>Perú / Latinoamérica</td>
-    <td>
-      <b>Recomiendame.pe</b>
-      <br>Perú
-    </td>
+    <td><b>Servify</b><br>Lima Metropolitana, Perú</td>
     <td>
       <b>Matrimonio.com.pe</b>
       <br>Latinoamérica
     </td>
     <td>
-      <b>Facebook Marketplace</b>
+      <b>Facebook Marketplace y Grupos</b>
       <br>Global
+    </td>
+    <td>
+      <b>Directorios y Clasificados Web</b>
+      <br>Perú
     </td>
   </tr>
 
+  <!-- PERFIL -->
   <tr>
     <td rowspan="2"><b>Perfil</b></td>
     <td><b>Overview</b></td>
-    <td>Plataforma digital (web y móvil) diseñada para digitalizar y centralizar portafolios de trabajadores independientes y proveedores de oficios. Permite a los usuarios buscar servicios, ver fotos reales de trabajos anteriores, leer reseñas y contactar directamente por WhatsApp, sin necesidad de dominar redes sociales.</td>
-    <td>Directorio web a nivel nacional enfocado en la búsqueda y recomendación de profesionales y técnicos. Permite publicar anuncios textuales y básicos sobre servicios, funcionando como una guía telefónica digital o sección de clasificados modernos.</td>
-    <td>Plataforma web y móvil líder en el rubro de eventos sociales (exclusivo bodas). Directorio altamente especializado donde los proveedores crean perfiles premium con galerías de alta calidad, reseñas extensas y herramientas de cotización integradas.</td>
-    <td>Sección de compra/venta y grupos comunitarios dentro de la red social Facebook. No es exclusiva para servicios, pero es usada masivamente por profesionales independientes para publicar fotos rápidas y captar clientes en su localidad.</td>
+    <td>Marketplace Web basado en Arquitectura de Microservicios diseñado para resolver la informalidad y la fricción en la contratación de servicios. Conecta a clientes con proveedores, y a proveedores con personal de apoyo mediante contratos digitales automáticos.</td>
+    <td>Directorio web y móvil altamente especializado en el rubro de bodas. Funciona como vitrina donde los proveedores crean perfiles premium con galerías de alta calidad, pero no procesan el pago transaccional completo del servicio.</td>
+    <td>Sección de compra/venta y grupos comunitarios dentro de la red social. Usada masivamente por proveedores y personal de apoyo para publicar fotos rápidas. Todo trato es externo e informal (vía WhatsApp).</td>
+    <td>Directorios web a nivel nacional enfocados en publicar anuncios textuales sobre servicios. Funcionan como una guía telefónica digital o sección de clasificados modernos sin validación.</td>
   </tr>
   <tr>
     <td><b>Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</b></td>
-    <td>Combina lo mejor de dos mundos: la estructura y formalidad de un portafolio profesional, con la facilidad de uso y contacto directo de una red social. Todo en un entorno validado por reseñas para evitar estafas.</td>
-    <td>Enfoque netamente local (Perú) y gratuidad casi total. Es una herramienta sencilla que no exige conocimientos técnicos para crear un anuncio de servicio.</td>
-    <td>Prestigio, confianza absoluta y herramientas adicionales (planificadores, foros). Si un proveedor está bien posicionado aquí, garantiza un flujo de clientes con alto poder adquisitivo.</td>
-    <td>Tráfico inmenso. El usuario no necesita descargar nada nuevo ni registrarse en otro sitio, ya que utiliza la red social que abre todos los días.</td>
+    <td>Seguridad absoluta. Soluciona la fricción operativa mediante contratos digitales y pagos seguros (modelo Booking/Airbnb). El trato no queda "en el aire", protegiendo el dinero del cliente y el tiempo del proveedor.</td>
+    <td>Prestigio, confianza y herramientas adicionales de planificación. Si un proveedor está posicionado aquí, garantiza un flujo de clientes listos para invertir fuerte.</td>
+    <td>Tráfico inmenso y cero barreras de entrada. El usuario no necesita descargar nada nuevo porque ya utiliza la red social todos los días.</td>
+    <td>Gratuidad total y mucha facilidad técnica para dejar un número de contacto publicado.</td>
   </tr>
 
+  <!-- PERFIL DE MARKETING -->
   <tr>
     <td rowspan="2"><b>Perfil de Marketing</b></td>
     <td><b>Mercado objetivo</b></td>
-    <td>Trabajadores independientes (20-55 años) del rubro de eventos y oficios técnicos que no dominan algoritmos virales. Clientes finales (familias, organizadores) que buscan servicios rápidos, verificados y sin fricciones.</td>
-    <td>Técnicos de oficios tradicionales (gasfiteros, electricistas, albañiles) que buscan un espacio digital básico para dejar su número de contacto en Perú.</td>
-    <td>Proveedores de eventos con presupuestos de marketing moderados a altos. Clientes: Parejas comprometidas dispuestas a invertir fuertemente en la celebración de su boda.</td>
-    <td>Público general. Cualquier persona con acceso a internet que ofrezca un servicio empírico o que busque soluciones rápidas y económicas en su distrito.</td>
+    <td>Clientes (celebraciones privadas), Proveedores del servicio de eventos (organizadores), y Personas que quieran trabajar para el proveedor (mozos, animadoras, DJs) en Lima Metropolitana.</td>
+    <td>Exclusivamente parejas comprometidas dispuestas a invertir fuertemente en su boda, y proveedores con presupuestos de marketing moderados/altos.</td>
+    <td>Público general. Cualquier persona con internet que busque soluciones rápidas y talento independiente que busque "recursearse" en su localidad.</td>
+    <td>Usuarios tradicionales que buscan resolver requerimientos esporádicos a muy bajo costo o técnicos sin conocimientos de redes sociales.</td>
   </tr>
   <tr>
     <td><b>Estrategias de marketing</b></td>
-    <td>Marketing digital centrado en la "formalización" del trabajador y el aumento de sus ingresos. Alianzas con gremios locales, mercados y campañas de boca a boca. Crecimiento impulsado por el modelo freemium.</td>
-    <td>Posicionamiento SEO local (búsquedas en Google tipo "gasfitero en Lima") y listados gratuitos que atraen tráfico orgánico.</td>
-    <td>Fuerte inversión en SEO/SEM, organización de ferias de novios, publicidad tradicional y branding aspiracional muy potente.</td>
-    <td>El marketing lo hacen los propios usuarios. Facebook retiene a la audiencia mediante su ecosistema completo (grupos, noticias, chat), haciendo que el Marketplace tenga visitas por defecto.</td>
+    <td>Efecto de red impulsado por la seguridad: Atraer al personal de apoyo ofreciendo un perfil gratis para captar proveedores, y atraer a los clientes ofreciéndoles protección antifraude sobre su dinero.</td>
+    <td>Fuerte inversión en SEO/SEM, organización de ferias presenciales de novios, publicidad tradicional y branding aspiracional muy potente.</td>
+    <td>El marketing lo hace el ecosistema de la app. Facebook retiene a la audiencia mediante grupos y notificaciones cruzadas.</td>
+    <td>Posicionamiento SEO local (búsquedas en Google tipo "animadora barata en Lima") y listados orgánicos.</td>
   </tr>
 
+  <!-- PERFIL DE PRODUCTO -->
   <tr>
     <td rowspan="3"><b>Perfil de Producto</b></td>
     <td><b>Productos & Servicios</b></td>
-    <td>Perfiles intuitivos, galerías de imágenes de carga rápida, buscador avanzado con filtros, sistema de reseñas de 1 a 5 estrellas y botón de redirección inmediata a WhatsApp para cerrar el trato.</td>
-    <td>Fichas de contacto muy básicas con título, descripción del servicio, zona de cobertura y números de teléfono.</td>
-    <td>Perfiles premium, cotizador interno, agenda de citas, foros de comunidad y sellos de calidad (premios anuales a los mejores proveedores).</td>
-    <td>Publicaciones efímeras en un feed estilo clasificados, interacción en grupos locales e integración directa con Facebook Messenger.</td>
+    <td>Perfiles visuales, bolsa interna de trabajo (B2B), pasarela de pagos integrada, contratos automáticos descargables, y sistema de reseñas de doble vía.</td>
+    <td>Perfiles premium, cotizador interno, agenda de citas, foros de comunidad y sellos de calidad (premios anuales).</td>
+    <td>Publicaciones efímeras en un feed estilo clasificados, interacción en grupos locales de eventos e integración directa con Messenger.</td>
+    <td>Fichas de contacto muy básicas con título, descripción del servicio y zona de cobertura. Carecen de galerías visuales estructuradas.</td>
   </tr>
   <tr>
     <td><b>Precios & Costos</b></td>
-    <td>Modelo Freemium. Creación de perfil y portafolio 100% gratuito. Planes de suscripción de bajo costo para destacar el perfil en los primeros resultados de búsqueda.</td>
-    <td>Gratuito o con opciones de pago de muy bajo costo para mantener el anuncio activo.</td>
-    <td>Modelo Freemium altamente agresivo. Aparecer en los resultados útiles requiere pagar planes premium costosos (mensuales o anuales) debido a la saturación del sitio.</td>
-    <td>100% gratuito para publicar. Opciones de pago (Facebook Ads) para promocionar la publicación y llegar a más personas.</td>
+    <td>Modelo Transaccional. Inscripción gratuita. Se cobra un pequeño porcentaje de comisión únicamente si el contrato/reserva se cierra con éxito a través de la plataforma.</td>
+    <td>Modelo Freemium costoso. Aparecer en los resultados requiere pagar suscripciones mensuales o anuales elevadas para destacar.</td>
+    <td>100% gratuito para publicar. Opciones de pago (Ads) para promocionar la publicación temporalmente.</td>
+    <td>Gratuito o con opciones de pago (micropagos) para mantener el anuncio en la cima del directorio.</td>
   </tr>
   <tr>
-    <td><b>Canales de distribución (Web y/o Móvil)</b></td>
-    <td>Plataforma Web (Responsive) y futura App Móvil.</td>
+    <td><b>Canales de distribución</b></td>
+    <td>Plataforma Web (Responsive).</td>
+    <td>Plataforma Web y App Móvil (iOS/Android).</td>
+    <td>Plataforma Web y App Móvil.</td>
     <td>Plataforma Web clásica.</td>
-    <td>Plataforma Web y aplicación móvil altamente desarrollada (iOS/Android).</td>
-    <td>Plataforma Web y App Móvil de Facebook.</td>
   </tr>
 
+  <!-- ANÁLISIS SWOT -->
   <tr>
     <td rowspan="4"><b>Análisis SWOT</b></td>
     <td><b>Fortalezas</b></td>
-    <td>Especialización en portafolios sin la complejidad de TikTok/Instagram. Facilidad de uso para no nativos digitales. Contacto directo por WhatsApp que acelera las ventas.</td>
-    <td>Alcance a nivel nacional, nombre de dominio muy fácil de recordar y costo de entrada nulo.</td>
-    <td>Marca líder indiscutible en su nicho. Base de datos enorme de clientes dispuestos a gastar. Herramientas complementarias muy completas.</td>
-    <td>Audiencia cautiva de millones de usuarios diarios. Familiaridad total con la interfaz. Cero barreras de entrada.</td>
+    <td>Integra contratos vinculantes y pagos, eliminando el miedo a las estafas. Abarca todo tipo de eventos (no solo bodas). Cubre la necesidad B2B al incorporar al personal de apoyo en el mismo ecosistema.</td>
+    <td>Marca líder en su nicho. Base de datos enorme de proveedores de alto nivel y clientes con alto presupuesto.</td>
+    <td>Audiencia cautiva de millones de usuarios diarios. Familiaridad total con la interfaz. Cero curvas de aprendizaje.</td>
+    <td>Nombre de dominio fácil de recordar y costo de entrada totalmente nulo para el publicante.</td>
   </tr>
   <tr>
     <td><b>Debilidades</b></td>
-    <td>Startup nueva que debe lidiar con el "problema del huevo y la gallina" (necesita profesionales para atraer clientes y viceversa). Depende de la adopción tecnológica inicial.</td>
-    <td>Diseño web desactualizado, bajo tráfico en comparación con redes sociales, falta de herramientas visuales como galerías estructuradas.</td>
-    <td>Exclusividad extrema (solo bodas), dejando fuera el rentable mercado de 15 años, cumpleaños y oficios del hogar. Costos prohibitivos para pequeños emprendedores.</td>
-    <td>Desorden total. Cero filtros de seguridad o validación profesional, lo que propicia estafas. El algoritmo obliga a republicar constantemente para no desaparecer del feed.</td>
+    <td>Reto logístico: equilibrar la oferta y demanda de los 3 segmentos simultáneamente. Necesidad de educar al usuario para que pague dentro del sistema y no decida evadir la comisión yéndose a WhatsApp.</td>
+    <td>Exclusividad extrema (ignora cumpleaños, corporativos, 15 años). Costos fijos prohibitivos para pequeños proveedores de eventos.</td>
+    <td>Desorden total. Cero filtros de seguridad o validación. Tratos informales que propician un altísimo índice de estafas, robos y cancelaciones.</td>
+    <td>Diseño web desactualizado. Incapacidad para mostrar galerías visuales (videos/fotos), lo cual es el factor decisivo para vender un evento.</td>
   </tr>
   <tr>
     <td><b>Oportunidades</b></td>
-    <td>Digitalizar un sector mayormente informal en Latinoamérica. Posibilidad de expandir rápidamente de eventos a oficios técnicos del hogar una vez validado el modelo.</td>
-    <td>Si modernizan su interfaz y añaden sistemas de validación o fotografías, podrían captar a la audiencia que huye de la informalidad de Facebook.</td>
-    <td>Tienen el capital para abrir plataformas paralelas dedicadas a otros tipos de eventos, acaparando el mercado general.</td>
-    <td>Facebook podría lanzar un "Marketplace Services" con perfiles verificados y reseñas, imitando el modelo de directorios formales.</td>
+    <td>Digitalizar y formalizar un mercado multimillonario en Lima Metropolitana que actualmente opera casi al 100% en la sombra de la informalidad.</td>
+    <td>Tienen el capital para abrir plataformas paralelas dedicadas a fiestas infantiles o eventos corporativos.</td>
+    <td>Facebook podría implementar pasarelas de pago y contratos integrados dentro de sus grupos de Marketplace en un futuro.</td>
+    <td>Si modernizan su interfaz y añaden soporte multimedia, podrían captar a la audiencia que huye de Facebook.</td>
   </tr>
   <tr>
     <td><b>Amenazas</b></td>
-    <td>Resistencia al cambio por parte de profesionales que prefieren seguir usando Facebook por costumbre, a pesar de sus fallas. Falta de financiamiento inicial para marketing masivo.</td>
-    <td>El crecimiento de plataformas más modernas y visuales (como Servify) que dejen obsoleta su estructura de "clasificados de texto".</td>
-    <td>Crisis económicas que reduzcan drásticamente el presupuesto para bodas de lujo, afectando el pago de suscripciones de sus proveedores.</td>
-    <td>Pérdida de credibilidad por aumento de estafas en su plataforma, llevando a los usuarios a buscar directorios especializados y seguros.</td>
+    <td>Fuerte resistencia al cambio por parte de proveedores que prefieren el riesgo de la informalidad de Facebook con tal de no pagar una pequeña comisión por el contrato.</td>
+    <td>Crisis económicas que reduzcan drásticamente la capacidad de inversión de las parejas, afectando el pago de suscripciones.</td>
+    <td>Pérdida de credibilidad por el aumento descontrolado de perfiles falsos, forzando a los usuarios a migrar a plataformas cerradas y verificadas (como Servify).</td>
+    <td>Ser desplazados y olvidados completamente por el uso de plataformas altamente visuales como Instagram o TikTok.</td>
   </tr>
 </table>
 
 ## 2.1.2. Estrategias y tácticas frente a competidores
 
-Servify cuenta con una ventaja clara frente a sus competidores: encuentra el punto de equilibrio exacto entre la profesionalidad de un directorio premium y la accesibilidad de una red social. Frente a Matrimonio.com.pe, que cobra planes costosos y se limita exclusivamente al sector de bodas, Servify elimina esa barrera económica con su modelo freemium y abarca todo el espectro de eventos privados y oficios locales, capturando a un mercado masivo de emprendedores que actualmente se encuentra desatendido.
+Servify cuenta con una ventaja clara frente a sus competidores al abarcar la cadena logística completa de un evento y resolver el dolor principal del mercado: la inseguridad financiera. Frente a Matrimonio.com.pe, que cobra suscripciones de alto costo y se limita exclusivamente a las bodas, Servify democratiza el acceso abarcando fiestas infantiles, cumpleaños, quinceañeros y eventos corporativos en Lima Metropolitana. Al eliminar la barrera de entrada (suscripción gratuita) y cobrar solo una pequeña comisión por contrato cerrado, atrae a un mercado masivo de emprendedores y agencias que actualmente se encuentran excluidos de las plataformas premium.
 
-Frente a Facebook Marketplace, que domina por su inmenso tráfico pero sufre de alta informalidad y desorden, la táctica es posicionar a Servify como la alternativa "segura y estructurada". La estrategia no es intentar robarle el tráfico diario a Facebook, sino ofrecer a los profesionales una herramienta (su enlace de perfil de Servify) que puedan compartir en sus propias redes sociales o WhatsApp. De esta manera, se garantiza a los clientes finales un ecosistema limpio, con galerías ordenadas y reseñas verificadas que eliminen el miedo a las estafas.
+Frente a Facebook Marketplace y sus grupos informales (el ecosistema por defecto actualmente), que dominan por su inmenso tráfico pero sufren de alta informalidad, desorden y estafas, la táctica es posicionar a Servify como un entorno "blindado y transaccional". La estrategia no es intentar competir directamente por el tráfico diario de Facebook, sino ofrecer a los proveedores una herramienta transaccional (su enlace de perfil de Servify) que puedan compartir en sus propias redes sociales o WhatsApp. De esta manera, cuando un cliente quiera contratarlos, lo hará a través de la pasarela de pagos de Servify, garantizando un contrato digital vinculante que proteja el dinero del cliente y asegure el pago al proveedor. 
 
-Respecto a Recomiendame.pe, que es una opción local pero estática y basada solo en texto, la estrategia es diferenciarse radicalmente mediante el diseño visual y la experiencia de usuario (UX). Servify priorizará las galerías de imágenes de alta calidad y la integración directa con WhatsApp para cotizaciones inmediatas, demostrando ser una herramienta diseñada específicamente para cerrar ventas de forma ágil.
+Respecto a los directorios web estáticos y genéricos, la estrategia es diferenciarse radicalmente mediante la integración de una bolsa de trabajo B2B. Servify no solo es una vitrina hacia el cliente final, sino un ecosistema interconectado. 
 
-La táctica central de Servify debe basarse en el crecimiento orgánico impulsado por la propia comunidad. Al ofrecer un portafolio digital gratuito y fácil de usar, los propios trabajadores independientes actuarán como embajadores de la marca al compartir sus perfiles con prospectos, generando un efecto de red (network effect) que construya credibilidad y atraiga tanto a más profesionales como a clientes finales.
+La táctica central de Servify debe basarse en el crecimiento orgánico (efecto de red) impulsado por la seguridad y la propia comunidad. Al ofrecer un portafolio digital gratuito al **Personal de apoyo** (Segmento 3), estos actuarán como embajadores, atrayendo orgánicamente a los **Proveedores de eventos** (Segmento 2) que buscan reclutar talento seguro. Una vez que los organizadores estén consolidados con portafolios de alta calidad y reseñas, el catálogo será lo suficientemente robusto y confiable para atraer masivamente a los **Clientes finales** (Segmento 1), consolidando así el marketplace para resolver la informalidad y la fricción en la contratación de servicios.
 
 ## 2.2. Entrevistas
 
-Con el objetivo de conocer cómo los profesionales independientes gestionan actualmente la captación de clientes y qué dificultades enfrentan los usuarios al buscar servicios, se llevaron a cabo entrevistas dirigidas a nuestros dos segmentos principales: trabajadores independientes (proveedores de eventos y oficios) y clientes finales (organizadores de eventos y dueños de hogar). Para cada segmento se diseñaron preguntas abiertas que permitieran entender sus hábitos, su nivel de dominio tecnológico, cómo manejan la desconfianza en contrataciones por internet y su disposición a utilizar un directorio centralizado.
+Con el objetivo de validar las hipótesis, conocer cómo los profesionales gestionan actualmente la captación de clientes y qué fricciones enfrentan al buscar servicios, se llevaron a cabo entrevistas dirigidas a nuestros tres segmentos principales: Clientes, Proveedores del servicio de eventos y Personas que quieran trabajar para el proveedor. 
 
-La información recopilada fue revisada y organizada para identificar comportamientos recurrentes, problemas comunes y necesidades no cubiertas. Este análisis permitió obtener una visión más clara sobre cómo los profesionales luchan y se frustran contra los algoritmos de las redes sociales, y cómo los clientes finales pierden tiempo valioso ante la falta de catálogos formales y validados.
-
-A partir de estos hallazgos, se pudieron establecer criterios clave para el desarrollo de Servify, asegurando que la solución responda a situaciones reales, elimine la fricción en el proceso de búsqueda y aporte un valor contundente: mayores ingresos y formalidad para el profesional, y seguridad y rapidez para el cliente.
+Para cada segmento se diseñaron baterías de preguntas abiertas detalladas que permitieran entender sus hábitos, su nivel de dominio tecnológico, cómo manejan la desconfianza en contrataciones informales por WhatsApp y su disposición a utilizar un marketplace transaccional. La información recopilada permitirá establecer los criterios clave para el desarrollo del MVP de Servify, asegurando que la solución conecte de manera eficiente la oferta y la demanda, aporte formalidad al talento independiente y garantice seguridad transaccional a todas las partes involucradas.
 
 ### 2.2.1. Diseño de entrevistas
 
 En esta sección se define la información a recolectar de los segmentos objetivo. Los datos básicos de los entrevistados serán registrados mediante un formulario, el cual estará disponible a través del siguiente enlace: [INSERTA_TU_LINK_DE_GOOGLE_FORMS_AQUI]
 
-**Entrevistas Segmento 1: Trabajadores independientes y de oficios**
+**Entrevistas Segmento 1: Cliente (Quien contrata para su evento)**
 1. ¿Cuál es su nombre y apellido?
 2. ¿Cuál es su edad?
 3. ¿Qué sistema operativo usa en su dispositivo móvil (ej. Android, iOS)?
 4. ¿Qué sistema operativo usa en su computadora y/o laptop (ej. Windows, macOS)?
-5. ¿Podría contarnos a qué oficio se dedica y cuánto tiempo lleva ofreciendo sus servicios?
-6. ¿Cómo consigue la mayoría de sus clientes actualmente (boca a boca, referidos, redes sociales)?
-7. ¿Qué herramientas utiliza para mostrar su trabajo o portafolio a los clientes potenciales?
-8. ¿Qué tan difícil le resulta captar nuevos clientes a través de redes sociales como Facebook o Instagram?
-9. ¿Cuáles son las mayores frustraciones que enfrenta al intentar promocionar su negocio en internet?
-10. ¿Alguna vez ha perdido un contrato por no tener un catálogo o portafolio organizado para mostrar rápidamente?
-11. ¿Ha utilizado alguna plataforma o directorio web para ofrecer sus servicios? ¿Cuál fue su experiencia?
-12. Si existiera una plataforma sencilla y exclusiva para crear su portafolio sin necesidad de saber usar redes sociales, ¿cree que le ayudaría?
-13. ¿Qué tan importante es para usted que los clientes puedan contactarlo directamente a su WhatsApp con un solo clic?
-14. ¿Le resultaría útil un sistema donde sus clientes anteriores puedan dejarle reseñas y calificaciones de 1 a 5 estrellas?
-15. ¿Qué información considera indispensable que debe ir en su perfil profesional digital?
-16. ¿Qué lo desmotivaría o qué preocupaciones tendría al registrarse en una nueva plataforma de oficios?
-17. ¿Estaría dispuesto a pagar una suscripción económica para destacar su perfil y aparecer en los primeros resultados de búsqueda? ¿Por qué?
+5. ¿Con qué frecuencia organiza o apoya en la organización de eventos privados (cumpleaños, quinceañeros, reuniones corporativas)?
+6. Cuando necesita contratar a un proveedor de servicios para una fiesta, ¿cómo suele buscarlo actualmente?
+7. ¿Qué tan importante es para usted ver un portafolio ordenado (fotos y videos claros) antes de decidir contratar a alguien?
+8. ¿Alguna vez ha tenido una mala experiencia, incumplimiento o ha sido estafado al contratar a alguien "de palabra" por internet o WhatsApp? ¿Qué pasó?
+9. ¿Cuáles son las mayores frustraciones que tiene al buscar talento local en plataformas desorganizadas como grupos de Facebook?
+10. ¿Qué factores le generan mayor confianza al momento de decidir realizar un pago por adelantado a un proveedor de eventos?
+11. ¿Estaría dispuesto a realizar la reserva de su evento a través de nuestra página web, pagando una pequeña comisión, si esto le garantiza un contrato formal y la seguridad de que su dinero está protegido si el proveedor le falla?
+12. ¿Qué tanto valora poder leer reseñas reales de otras personas antes de contactar a un organizador?
+13. ¿Qué tipo de filtros le gustaría tener al buscar un servicio (precio, ubicación, calificación, tipo de evento)?
+14. ¿Qué características debería tener esta plataforma para que usted la prefiera por encima de seguir buscando en Facebook?
+15. ¿Qué aspecto le haría desconfiar de realizar un pago a través de un marketplace de eventos?
 
-**Entrevistas Segmento 2: Clientes finales (Organizadores y hogares)**
+**Entrevistas Segmento 2: Proveedor del Servicio de Eventos (Organizadores)**
 1. ¿Cuál es su nombre y apellido?
 2. ¿Cuál es su edad?
-3. ¿Qué sistema operativo usa en su dispositivo móvil (ej. Android, iOS)?
-4. ¿Qué sistema operativo usa en su computadora y/o laptop (ej. Windows, macOS)?
-5. ¿Podría contarnos un poco sobre usted y con qué frecuencia suele organizar eventos o requerir servicios de oficios para el hogar?
-6. Cuando necesita contratar a un profesional independiente (ej. un gasfitero, un DJ, un decorador), ¿cómo suele buscarlo?
-7. ¿Qué tan importante es para usted ver fotos claras o el portafolio del trabajador antes de decidir contratarlo?
-8. ¿Alguna vez ha tenido una mala experiencia, mal servicio o ha sido estafado al contratar a alguien por internet o redes sociales? ¿Qué pasó?
-9. ¿Cuáles son las mayores frustraciones que tiene al buscar talento local en plataformas desorganizadas como Facebook Marketplace?
-10. ¿Qué factores le generan mayor confianza al momento de decidir a qué profesional contactar?
-11. Si existiera un directorio web exclusivo de profesionales verificados con fotos de sus trabajos, ¿cómo lo utilizaría?
-12. ¿Qué tanto valora poder leer reseñas reales de otras personas antes de contactar a un trabajador independiente?
-13. ¿Le parece más cómodo contactar al proveedor a través de un chat interno de la página o prefiere que la web lo redirija a su WhatsApp?
-14. ¿Qué tipo de filtros le gustaría tener al buscar un servicio (precio, ubicación, calificación por estrellas)?
-15. ¿Qué características debería tener esta plataforma para que usted la prefiera por encima de seguir buscando en grupos de Facebook?
-16. ¿Qué aspecto le haría desconfiar de una plataforma de este tipo?
-17. ¿Estaría dispuesto a recomendar esta plataforma a sus conocidos si le ayuda a encontrar un buen profesional de forma rápida y segura?
+3. ¿Qué sistema operativo usa en su dispositivo móvil?
+4. ¿Qué sistema operativo usa en su computadora y/o laptop?
+5. ¿Qué tipos de eventos suele organizar y cuánto tiempo lleva ofreciendo sus servicios?
+6. ¿Cómo consigue la mayoría de sus clientes actualmente y qué herramientas usa para mostrar su portafolio?
+7. ¿Qué tan frustrante o difícil le resulta la necesidad de lidiar con algoritmos y crear contenido viral en redes sociales (TikTok/Instagram) para conseguir clientes?
+8. ¿Le ha pasado que un cliente le cancela a última hora por haber "quedado" solo por WhatsApp sin un contrato formal de por medio? ¿Cómo le afectó?
+9. ¿Estaría de acuerdo en ceder un pequeño porcentaje de comisión a la plataforma si esta le asegura el pago puntual del cliente y emite un contrato digital que lo respalde legalmente?
+10. Cuando tiene un evento grande y necesita subcontratar personal de apoyo urgente (bartenders, DJs, animadoras), ¿cómo los encuentra?
+11. ¿Ha tenido problemas por falta de compromiso o ausentismo por parte del personal de apoyo contratado de manera informal en grupos de Facebook?
+12. Si existiera una plataforma que le permita exhibir su portafolio a clientes y, al mismo tiempo, publicar ofertas para contratar personal de apoyo verificado, ¿le sería útil?
+13. ¿Qué información considera indispensable que debe ir en su perfil profesional digital para convencer al cliente?
+14. ¿Qué lo desmotivaría o qué preocupaciones tendría al registrarse en un nuevo marketplace transaccional?
+
+**Entrevistas Segmento 3: Personas que quieran trabajar para el proveedor (Personal de apoyo)**
+1. ¿Cuál es su nombre y apellido?
+2. ¿Cuál es su edad?
+3. ¿Qué sistema operativo usa en su dispositivo móvil?
+4. ¿Qué sistema operativo usa en su computadora y/o laptop?
+5. ¿Cuál es su talento o servicio específico (DJ, animador, catering, bailarín, mozo) y hace cuánto tiempo lo ofrece?
+6. ¿Cómo se entera normalmente de oportunidades de trabajo o "gigs" para participar en eventos los fines de semana?
+7. ¿Cuenta con un portafolio o catálogo ordenado (videos/fotos) para mostrarle a los organizadores cuando le piden referencias de su trabajo?
+8. ¿Qué tan difícil le resulta conseguir que proveedores y organizadores formales conozcan su trabajo sin depender de intermediarios abusivos?
+9. ¿Alguna vez le han cancelado a última hora, cambiado las condiciones o no le han pagado tras ser contactado informalmente por redes sociales?
+10. ¿Qué le parecería tener un perfil digital gratuito en una plataforma donde los organizadores busquen su talento basándose en su portafolio y reseñas de 1 a 5 estrellas?
+11. ¿Estaría dispuesto a mantener su perfil actualizado si sabe que de ahí provendrán sus principales ofertas de trabajo formales?
+12. ¿Qué funciones o características le gustaría que tuviera esta plataforma para que realmente la use como su herramienta principal de empleo?
+13. ¿Qué le generaría desconfianza al postular a una oferta de trabajo para un evento a través de una página web?
